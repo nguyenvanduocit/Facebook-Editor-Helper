@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+
+  "name": "Facebook Editor Helper",
+  "description": "Life saver for Facebook editors",
+  "version": "1.0",
+  "options_ui": {
+    "page": "options.html",
+    "chrome_style": true
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.facebook.com/editor/"],
+      "css": ["css/content.css"],
+      "js": ["js/lib/jquery-2.1.4.min.js", "js/lib/underscore.js","js/content.js"],
+      "run_at":"document_idle"
+    }
+  ],
+  "background": {
+    "scripts": ["js/background.js"]
+  },
+  "permissions": [
+    "background",
+    "activeTab",
+    "webRequest",
+    "webRequestBlocking",
+    "*://*.facebook.com/",
+    "contextMenus",
+    "cookies",
+    "management"
+  ]
+}
