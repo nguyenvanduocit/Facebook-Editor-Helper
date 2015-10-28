@@ -12,7 +12,13 @@
     {
       "matches": ["https://www.facebook.com/editor/"],
       "css": ["css/content.css"],
-      "js": ["js/lib/jquery-2.1.4.min.js", "js/lib/underscore.js","js/content.js"],
+      "js": ["js/lib/jquery-2.1.4.min.js", "js/lib/underscore.js", "js/lib/jquery.hotkeys.js","js/content.js"],
+      "run_at":"document_idle"
+    },
+    {
+      "matches": ["http://www.geopostcodes.com/*"],
+      "css": ["css/content.css"],
+      "js": ["js/lib/jquery-2.1.4.min.js", "js/lib/underscore.js", "js/lib/jquery.hotkeys.js","js/lib/clipboard.js","js/geopostcodes.content.js"],
       "run_at":"document_idle"
     }
   ],
@@ -25,6 +31,7 @@
     "webRequest",
     "webRequestBlocking",
     "*://*.facebook.com/",
+    "*://www.geopostcodes.com/*",
     "contextMenus",
     "cookies",
     "management"

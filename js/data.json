@@ -1,0 +1,628 @@
+[
+  {
+    "name": "Bình Tân",
+    "slug": "Binh_Tan_Dong_Nam_Bo",
+    "ign": "777",
+    "hasc": "VN.HC.BT",
+    "totalPlace": "1 442",
+    "child": [
+      {
+        "name": "An Lạc",
+        "slug": "An_Lac_Binh_Tan_Dong_Nam_Bo",
+        "totalPlace": "81",
+        "child": [
+          {
+            "count": "",
+            "name": "Cụm Công Nghiệp VIệt Tài",
+            "zipCode": "763540"
+          },
+          {
+            "count": "Khu dân cư Nam Hùng Vương",
+            "name": "Đường 2C",
+            "zipCode": "763591"
+          },
+          {
+            "count": "1-195, 2-206",
+            "name": "Đường Bùi Tư Toàn",
+            "zipCode": "763586"
+          },
+          {
+            "count": "9-21",
+            "name": "Đường Bùi Tư Toàn, Hẻm 116, Ngách 60",
+            "zipCode": "763580"
+          },
+          {
+            "count": "1-43",
+            "name": "Đường Bùi Tư Toàn, Hẻm 122, Ngách 102",
+            "zipCode": "763581"
+          },
+          {
+            "count": "8-10",
+            "name": "Đường Bùi Tư Toàn, Hẻm 13, Ngách 7",
+            "zipCode": "763583"
+          },
+          {
+            "count": "2-6",
+            "name": "Đường Bùi Tư Toàn, Hẻm 176, Ngách 206",
+            "zipCode": "763582"
+          },
+          {
+            "count": "6-132, 9-131",
+            "name": "Đường Bùi Tư Toàn, Hẻm 27, Ngách 13",
+            "zipCode": "763585"
+          },
+          {
+            "count": "7-17",
+            "name": "Đường Bùi Tư Toàn, Hẻm 27, Ngách 21",
+            "zipCode": "763577"
+          },
+          {
+            "count": "1-99, 2-208",
+            "name": "Đường Bùi Tư Toàn, Hẻm 295",
+            "zipCode": "763575"
+          },
+          {
+            "count": "1-79, 2-58",
+            "name": "Đường Bùi Tư Toàn, Hẻm 36, Ngách 20",
+            "zipCode": "763576"
+          },
+          {
+            "count": "1-7, 6-12",
+            "name": "Đường Bùi Tư Toàn, Hẻm 58, Ngách 40",
+            "zipCode": "763579"
+          },
+          {
+            "count": "16-24, 75-83",
+            "name": "Đường Bùi Tư Toàn, Hẻm 92, Ngách 50",
+            "zipCode": "763578"
+          },
+          {
+            "count": "3-19, 8-24",
+            "name": "Đường Bùi Tư Toàn, Hẻm 99, Ngách 77",
+            "zipCode": "763584"
+          },
+          {
+            "count": "1-95, 2-244",
+            "name": "Đường Đường Lê Tấn Bê, Hẻm 477",
+            "zipCode": "763519"
+          },
+          {
+            "count": "31-139",
+            "name": "Đường Hồ Học Lãm",
+            "zipCode": "763549"
+          },
+          {
+            "count": "36-92",
+            "name": "Đường Hồ Học Lãm",
+            "zipCode": "763527"
+          },
+          {
+            "count": "94-158",
+            "name": "Đường Hồ Học Lãm",
+            "zipCode": "763541"
+          },
+          {
+            "count": "1-7, 2-8",
+            "name": "Đường Hồ Học Lãm, Hẻm 191",
+            "zipCode": "763544"
+          },
+          {
+            "count": "2-6",
+            "name": "Đường Hồ Học Lãm, Hẻm 207",
+            "zipCode": "763543"
+          },
+          {
+            "count": "1-27",
+            "name": "Đường Hồ Học Lãm, Hẻm 230",
+            "zipCode": "763550"
+          },
+          {
+            "count": "1-45",
+            "name": "Đường Hồ Học Lãm, Hẻm 258",
+            "zipCode": "763551"
+          },
+          {
+            "count": "3-9",
+            "name": "Đường Hồ Học Lãm, Hẻm 258, Ngách 15",
+            "zipCode": "763552"
+          },
+          {
+            "count": "1-79, 2-62",
+            "name": "Đường Hồ Học Lãm, Hẻm 298",
+            "zipCode": "763553"
+          },
+          {
+            "count": "1-49, 2-16",
+            "name": "Đường Hồ Học Lãm, Hẻm 298, Ngách 53",
+            "zipCode": "763555"
+          },
+          {
+            "count": "1-13, 2-14",
+            "name": "Đường Hồ Học Lãm, Hẻm 303",
+            "zipCode": "763542"
+          },
+          {
+            "count": "1-3",
+            "name": "Đường Hồ Học Lãm, Hẻm 308",
+            "zipCode": "763556"
+          },
+          {
+            "count": "1-5",
+            "name": "Đường Hồ Học Lãm, Hẻm 342",
+            "zipCode": "763557"
+          },
+          {
+            "count": "1-13, 2-16",
+            "name": "Đường Hồ Học Lãm, Hẻm 373",
+            "zipCode": "763533"
+          },
+          {
+            "count": "1-23",
+            "name": "Đường Hồ Học Lãm, Hẻm 439, Ngách 36",
+            "zipCode": "763531"
+          },
+          {
+            "count": "2-8, 3-7",
+            "name": "Đường Hồ Học Lãm, Hẻm 439, Ngách 43",
+            "zipCode": "763529"
+          },
+          {
+            "count": "2-22",
+            "name": "Đường Hồ Học Lãm, Hẻm 439, Ngách 59",
+            "zipCode": "763530"
+          },
+          {
+            "count": "1-37",
+            "name": "Đường Hồ Học Lãm, Hẻm 83",
+            "zipCode": "763554"
+          },
+          {
+            "count": "1-19, 2-72",
+            "name": "Đường Hồ Học Lãm- Khu Phố 2, Hẻm 439",
+            "zipCode": "763528"
+          },
+          {
+            "count": "295-399",
+            "name": "Đường Kinh Dương Vương",
+            "zipCode": "763571"
+          },
+          {
+            "count": "401-433",
+            "name": "Đường Kinh Dương Vương",
+            "zipCode": "763566"
+          },
+          {
+            "count": "435-449",
+            "name": "Đường Kinh Dương Vương",
+            "zipCode": "763564"
+          },
+          {
+            "count": "451-511",
+            "name": "Đường Kinh Dương Vương",
+            "zipCode": "763518"
+          },
+          {
+            "count": "513-553",
+            "name": "Đường Kinh Dương Vương",
+            "zipCode": "763515"
+          },
+          {
+            "count": "1-3",
+            "name": "Đường Kinh Dương Vương, Hẻm 655",
+            "zipCode": "763574"
+          },
+          {
+            "count": "1-13",
+            "name": "Đường Kinh Dương Vương, Hẻm 677",
+            "zipCode": "763572"
+          },
+          {
+            "count": "1-103, 2-102",
+            "name": "Đường Kinh Dương Vương, Hẻm 687",
+            "zipCode": "763567"
+          },
+          {
+            "count": "3-89, 6-8",
+            "name": "Đường Kinh Dương Vương, Hẻm 687, Ngách 24/11",
+            "zipCode": "763569"
+          },
+          {
+            "count": "1-115, 2-30",
+            "name": "Đường Kinh Dương Vương, Hẻm 687, Ngách 36/5/17",
+            "zipCode": "763568"
+          },
+          {
+            "count": "1-5, 2-6",
+            "name": "Đường Kinh Dương Vương, Hẻm 723",
+            "zipCode": "763565"
+          },
+          {
+            "count": "2-20",
+            "name": "Đường Kinh Dương Vương, Hẻm 72, Ngách 2",
+            "zipCode": "763570"
+          },
+          {
+            "count": "5-9",
+            "name": "Đường Kinh Dương Vương, Hẻm 813",
+            "zipCode": "763520"
+          },
+          {
+            "count": "2-16, 5-9",
+            "name": "Đường Kinh Dương Vương, Hẻm 847",
+            "zipCode": "763516"
+          },
+          {
+            "count": "1-23, 2-36",
+            "name": "Đường Kinh Dương Vương, Hẻm 859",
+            "zipCode": "763517"
+          },
+          {
+            "count": "1-17, 2-18",
+            "name": "Đường Lê Cơ, Hẻm 377",
+            "zipCode": "763573"
+          }
+        ]
+      },
+      {
+        "name": "An Lạc A",
+        "slug": "An_Lac_A_Binh_Tan_Dong_Nam_Bo",
+        "totalPlace": "200",
+        "child":
+        [{"count":"Khu dân cư An Lạc Bình Trị Đông, khu Phố 5","name":"Đường 9b","zipCode":"763823"},{"count":"1-11","name":"Đường An Dương Dương, Hẻm 268, Ngách 35","zipCode":"763877"},{"count":"136-268","name":"Đường An Dương Vương","zipCode":"763858"},{"count":"270-372","name":"Đường An Dương Vương","zipCode":"763889"},{"count":"Hẻm 248","name":"Đường An Dương Vương","zipCode":"763866"},{"count":"12-36, 13-35","name":"Đường An Dương Vương, Hẻm 131","zipCode":"763873"},{"count":"1-17, 2-30","name":"Đường An Dương Vương, Hẻm 136","zipCode":"763859"},{"count":"10-40","name":"Đường An Dương Vương, Hẻm 139","zipCode":"763901"},{"count":"1-11, 2-12","name":"Đường An Dương Vương, Hẻm 168","zipCode":"763860"},{"count":"1-19, 2-26","name":"Đường An Dương Vương, Hẻm 190","zipCode":"763861"},{"count":"1-13, 2-6","name":"Đường An Dương Vương, Hẻm 190, Ngách 21","zipCode":"763862"},{"count":"1-5","name":"Đường An Dương Vương, Hẻm 190, Ngách 25","zipCode":"763863"},{"count":"1-5, 2-6","name":"Đường An Dương Vương, Hẻm 206","zipCode":"763864"},{"count":"1-5, 2-6","name":"Đường An Dương Vương, Hẻm 216","zipCode":"763865"},{"count":"1-23, 2-14","name":"Đường An Dương Vương, Hẻm 226","zipCode":"763867"},{"count":"12-14, 1-27","name":"Đường An Dương Vương, Hẻm 226, Ngách 171/26","zipCode":"763868"},{"count":"1-39, 2-40","name":"Đường An Dương Vương, Hẻm 226, Ngách 181/39","zipCode":"763869"},{"count":"1-45, 2-46","name":"Đường An Dương Vương, Hẻm 256","zipCode":"763870"},{"count":"1-11, 2-36","name":"Đường An Dương Vương, Hẻm 261","zipCode":"763871"},{"count":"1-13, 2-12","name":"Đường An Dương Vương, Hẻm 266b","zipCode":"763872"},{"count":"1-49, 2-50","name":"Đường An Dương Vương, Hẻm 268","zipCode":"763874"},{"count":"1-17, 2-16","name":"Đường An Dương Vương, Hẻm 268, Ngách 18","zipCode":"763881"},{"count":"1-33, 2-44","name":"Đường An Dương Vương, Hẻm 268, Ngách 19","zipCode":"763875"},{"count":"1-11, 2-10","name":"Đường An Dương Vương, Hẻm 268, Ngách 20","zipCode":"763882"},{"count":"1-21, 2-22","name":"Đường An Dương Vương, Hẻm 268, Ngách 41","zipCode":"763876"},{"count":"1-73, 2-68","name":"Đường An Dương Vương, Hẻm 268, Ngách 52","zipCode":"763880"},{"count":"1-41, 2-56","name":"Đường An Dương Vương, Hẻm 268, Ngách 52/13","zipCode":"763883"},{"count":"1-61, 2-40","name":"Đường An Dương Vương, Hẻm 268, Ngách 52/27","zipCode":"763884"},{"count":"1-49, 2-54","name":"Đường An Dương Vương, Hẻm 268, Ngách 52/41","zipCode":"763885"},{"count":"1-41, 2-40","name":"Đường An Dương Vương, Hẻm 268, Ngách 52/53","zipCode":"763886"},{"count":"1-41, 2-44","name":"Đường An Dương Vương, Hẻm 268, Ngách 52/61","zipCode":"763887"},{"count":"1-21, 2-60","name":"Đường An Dương Vương, Hẻm 268, Ngách 53","zipCode":"763879"},{"count":"1-19, 2-30","name":"Đường An Dương Vương, Hẻm 268, Ngách 75","zipCode":"763878"},{"count":"1-25, 2-28","name":"Đường An Dương Vương, Hẻm 270","zipCode":"763890"},{"count":"1-63, 2-50","name":"Đường An Dương Vương, Hẻm 286","zipCode":"763891"},{"count":"1-39, 2-40","name":"Đường An Dương Vương, Hẻm 286, Ngách 50","zipCode":"763892"},{"count":"1-35, 2-60","name":"Đường An Dương Vương, Hẻm 290","zipCode":"763893"},{"count":"1-25, 2-12","name":"Đường An Dương Vương, Hẻm 296","zipCode":"763894"},{"count":"1-59, 2-64","name":"Đường An Dương Vương, Hẻm 308","zipCode":"763895"},{"count":"1-45, 2-46","name":"Đường An Dương Vương, Hẻm 322","zipCode":"763896"},{"count":"1-59, 2-60","name":"Đường An Dương Vương, Hẻm 322, Ngách 102","zipCode":"763897"},{"count":"1-19, 2-20","name":"Đường An Dương Vương, Hẻm 322, Ngách 81","zipCode":"763898"},{"count":"1-59, 2-60","name":"Đường An Dương Vương, Hẻm 322, Ngách 89","zipCode":"763899"},{"count":"2-22","name":"Đường An Dương Vương, Hẻm 358","zipCode":"763900"},{"count":"487-525","name":"Đường An Dương Vương - Khu Phố 4","zipCode":"763785"},{"count":"1-19, 2-10","name":"Đường An Dương Vương- Khu Phố 6, Hẻm 14","zipCode":"763788"},{"count":"1-7","name":"Đường An Dương Vương- Khu Phố 6, Hẻm 2","zipCode":"763789"},{"count":"1-49, 2-24","name":"Đường An Dương Vương- Khu Phố 6, Hẻm 20","zipCode":"763787"},{"count":"1-3, 2-30","name":"Đường An Dương Vương- Khu Phố 6, Hẻm 565","zipCode":"763786"},{"count":"315-473","name":"Đường Bà Hom - Khu Phố 6","zipCode":"763791"}]
+      },
+      {
+        "name": "Bình Hưng Hòa",
+        "slug": "Binh_Hung_Hoa_Binh_Tan_Dong_Nam_Bo",
+        "totalPlace": "247",
+        "child": [{"count":"509-809, 602-828","name":"Đường Lê Trọng Tấn","zipCode":"762120"},{"count":"1-13, 2-16","name":"Đường Lê Trọng Tấn, Hẻm 557","zipCode":"762121"},{"count":"1-81, 2-72","name":"Đường Lê Trọng Tấn, Hẻm 638","zipCode":"762122"},{"count":"1-17, 2-28","name":"Đường Lê Trọng Tấn, Hẻm 638, Ngách 25","zipCode":"762123"},{"count":"1-25, 2-46","name":"Đường Lê Trọng Tấn, Hẻm 638, Ngách 26","zipCode":"762124"},{"count":"1-17, 2-18","name":"Đường Lê Trọng Tấn, Hẻm 638, Ngách 39","zipCode":"762125"},{"count":"1-17, 2-18","name":"Đường Lê Trọng Tấn, Hẻm 638, Ngách 42","zipCode":"762126"},{"count":"1-27, 2-26","name":"Đường Lê Trọng Tấn, Hẻm 638, Ngách 50","zipCode":"762127"},{"count":"1-17, 2-20","name":"Đường Lê Trọng Tấn, Hẻm 638, Ngách 72","zipCode":"762128"},{"count":"1-41, 2-76","name":"Đường Lê Trọng Tấn, Hẻm 666","zipCode":"762129"},{"count":"1-27, 2-34","name":"Đường Lê Trọng Tấn, Hẻm 666, Ngách 11","zipCode":"762130"},{"count":"1-21, 2-32","name":"Đường Lê Trọng Tấn, Hẻm 666, Ngách 76","zipCode":"762131"},{"count":"1-25, 2-10","name":"Đường Lê Trọng Tấn, Hẻm 726","zipCode":"762132"},{"count":"1-29, 2-10","name":"Đường Lê Trọng Tấn, Hẻm 726, Ngách 10","zipCode":"762133"},{"count":"1-9, 2-16","name":"Đường Lê Trọng Tấn, Hẻm 726, Ngách 25","zipCode":"762136"},{"count":"1-13, 2-10","name":"Đường Lê Trọng Tấn, Hẻm 728","zipCode":"762134"},{"count":"1-35, 2-34","name":"Đường Lê Trọng Tấn, Hẻm 804","zipCode":"762135"},{"count":"1-15, 2-16","name":"Đường Phạm Đăng Giảng, Hẻm 122","zipCode":"762107"},{"count":"1-67, 2-84","name":"Đường Phạm Đăng Giảng, Hẻm 135","zipCode":"762108"},{"count":"1-19, 2-22","name":"Đường Phạm Đăng Giảng, Hẻm 135, Ngách 25","zipCode":"762109"},{"count":"1-37, 2-32","name":"Đường Phạm Đăng Giảng, Hẻm 205","zipCode":"762110"},{"count":"1-19, 2-32","name":"Đường Phạm Đăng Giảng, Hẻm 205, Ngách 20","zipCode":"762111"},{"count":"1-71, 2-68","name":"Đường Phạm Đăng Giảng, Hẻm 227","zipCode":"762112"},{"count":"1-43, 2-42","name":"Đường Phạm Đăng Giảng, Hẻm 257","zipCode":"762113"},{"count":"1-47, 2-42","name":"Đường Phạm Đăng Giảng, Hẻm 257, Ngách 12","zipCode":"762114"},{"count":"1-25, 2-38","name":"Đường Phạm Đăng Giảng, Hẻm 77","zipCode":"762099"},{"count":"1-63, 2-74","name":"Đường Phạm Đăng Giảng, Hẻm 77, Ngách 13","zipCode":"762101"},{"count":"2-18","name":"Đường Phạm Đăng Giảng, Hẻm 77, Ngách 38","zipCode":"762102"},{"count":"1-25, 2-28","name":"Đường Phạm Đăng Giảng, Hẻm 88","zipCode":"762103"},{"count":"1-27, 2-40","name":"Đường Phạm Đăng Giảng, Hẻm 96","zipCode":"762104"},{"count":"1-7, 2-6","name":"Đường Phạm Đăng Giảng, Hẻm 96, Ngách 20","zipCode":"762105"},{"count":"1-37, 2-34","name":"Đường Phạm Đăng Giảng, Hẻm 99","zipCode":"762106"},{"count":"1-271, 2-276","name":"Đường Phan Đăng Giảng","zipCode":"762098"},{"count":"1-773","name":"Đường Quốc Lộ 1a","zipCode":"762095"},{"count":"1-15, 2-32","name":"Đường Quốc Lộ 1a, Hẻm 255","zipCode":"762096"},{"count":"1-15, 2-26","name":"Đường Quốc Lộ 1a, Hẻm 289","zipCode":"762097"},{"count":"1-33","name":"Đường Số 1","zipCode":"762115"},{"count":"1-143, 2-102","name":"Đường Số 16","zipCode":"762137"},{"count":"1-17, 2-18","name":"Đường Số 16, Hẻm 101","zipCode":"762144"},{"count":"1-57, 2-60","name":"Đường Số 16, Hẻm 16","zipCode":"762140"},{"count":"1-25, 2-10","name":"Đường Số 16, Hẻm 16, Ngách 29","zipCode":"762141"},{"count":"1-25, 2-20","name":"Đường Số 16, Hẻm 44","zipCode":"762142"},{"count":"1-35, 2-38","name":"Đường Số 16, Hẻm 76","zipCode":"762143"},{"count":"1-33, 2-34","name":"Đường Số 16, Hẻm 8","zipCode":"762138"},{"count":"1-19, 2-20","name":"Đường Số 16, Hẻm 8, Ngách 11","zipCode":"762139"},{"count":"1-55, 2-34","name":"Đường Số 1, Hẻm 17","zipCode":"762119"},{"count":"1-45, 2-58","name":"Đường Số 1, Hẻm 3","zipCode":"762116"},{"count":"1-19, 2-22","name":"Đường Số 1, Hẻm 3, Ngách 45","zipCode":"762117"},{"count":"1-35, 2-36","name":"Đường Số 1, Hẻm 3, Ngách 58","zipCode":"762118"},{"count":"1-75, 2-86","name":"Đường Số 2","zipCode":"762145"}]
+      },
+      {
+        "name": "Bình Hưng Hòa A",
+        "slug": "Binh_Hung_Hoa_A_Binh_Tan_Dong_Nam_Bo",
+        "totalPlace": "219",
+        "child": [{"count":"","name":"Đường 4 khu phố 8","zipCode":"762526"},{"count":"1-319","name":"Đường Bình Long","zipCode":"762431"},{"count":"1-3, 2-4","name":"Đường Bình Long, Hẻm 11","zipCode":"762432"},{"count":"1-19, 2-18","name":"Đường Bình Long, Hẻm 193","zipCode":"762434"},{"count":"1-7, 2-6","name":"Đường Bình Long, Hẻm 243","zipCode":"762435"},{"count":"1-5, 2-12","name":"Đường Bình Long, Hẻm 33","zipCode":"762433"},{"count":"","name":"Đường GÒ XOÀI","zipCode":"762528"},{"count":"2-272","name":"Đường Lê Văn Quới","zipCode":"762436"},{"count":"1-7, 2-8","name":"Đường Lê Văn Quới, Hẻm 114","zipCode":"762445"},{"count":"1-3, 2-16","name":"Đường Lê Văn Quới, Hẻm 140","zipCode":"762446"},{"count":"1-13, 2-16","name":"Đường Lê Văn Quới, Hẻm 164","zipCode":"762447"},{"count":"1-19","name":"Đường Lê Văn Quới, Hẻm 170","zipCode":"762448"},{"count":"1-9, 2-20","name":"Đường Lê Văn Quới, Hẻm 18","zipCode":"762437"},{"count":"1-5, 2-6","name":"Đường Lê Văn Quới, Hẻm 180","zipCode":"762449"},{"count":"1-17, 2-18","name":"Đường Lê Văn Quới, Hẻm 18, Ngách 3","zipCode":"762439"},{"count":"1-29, 2-50","name":"Đường Lê Văn Quới, Hẻm 206","zipCode":"762450"},{"count":"1-5, 2-4","name":"Đường Lê Văn Quới, Hẻm 206, Ngách 14","zipCode":"762452"},{"count":"1-27, 2-40","name":"Đường Lê Văn Quới, Hẻm 206, Ngách 2","zipCode":"762451"},{"count":"1-29, 2-10","name":"Đường Lê Văn Quới, Hẻm 206, Ngách 26","zipCode":"762453"},{"count":"1-3, 2-20","name":"Đường Lê Văn Quới, Hẻm 206, Ngách 28","zipCode":"762454"},{"count":"1-21","name":"Đường Lê Văn Quới, Hẻm 216","zipCode":"762455"},{"count":"1-5","name":"Đường Lê Văn Quới, Hẻm 216, Ngách 21","zipCode":"762456"},{"count":"1-31, 2-58","name":"Đường Lê Văn Quới, Hẻm 264","zipCode":"762457"},{"count":"1-23, 2-42","name":"Đường Lê Văn Quới, Hẻm 272","zipCode":"762458"},{"count":"2-4","name":"Đường Lê Văn Quới, Hẻm 48","zipCode":"762438"},{"count":"1-25, 2-40","name":"Đường Lê Văn Quới, Hẻm 48, Ngách 4","zipCode":"762440"},{"count":"1-31, 2-58","name":"Đường Lê Văn Quới, Hẻm 82","zipCode":"762441"},{"count":"1-9, 2-6","name":"Đường Lê Văn Quới, Hẻm 82, Ngách 6","zipCode":"762442"},{"count":"1-13, 2-12","name":"Đường Lê Văn Quới, Hẻm 92","zipCode":"762443"},{"count":"1-19","name":"Đường Lê Văn Quới, Hẻm 92, Ngách 1","zipCode":"762444"},{"count":"1-55, 2-86","name":"Đường Liên Khu 12","zipCode":"762504"},{"count":"1-29, 2-24","name":"Đường Liên Khu 12, Hẻm 11","zipCode":"762506"},{"count":"1-13, 2-8","name":"Đường Liên Khu 12, Hẻm 18","zipCode":"762507"},{"count":"1-27, 2-20","name":"Đường Liên Khu 12, Hẻm 19","zipCode":"762508"},{"count":"1-11, 2-14","name":"Đường Liên Khu 12, Hẻm 22","zipCode":"762509"},{"count":"1-9, 2-20","name":"Đường Liên Khu 12, Hẻm 25","zipCode":"762510"},{"count":"2-10","name":"Đường Liên Khu 12, Hẻm 32","zipCode":"762511"},{"count":"1-19","name":"Đường Liên Khu 12, Hẻm 34","zipCode":"762512"},{"count":"1-23, 2-28","name":"Đường Liên Khu 12, Hẻm 36","zipCode":"762513"},{"count":"1-7, 2-4","name":"Đường Liên Khu 12, Hẻm 36, Ngách 26","zipCode":"762514"},{"count":"1-19, 2-18","name":"Đường Liên Khu 12, Hẻm 42","zipCode":"762515"},{"count":"1-11, 2-12","name":"Đường Liên Khu 12, Hẻm 50","zipCode":"762516"},{"count":"1-15, 2-14","name":"Đường Liên Khu 12, Hẻm 58","zipCode":"762517"},{"count":"1-15, 2-22","name":"Đường Liên Khu 12, Hẻm 64","zipCode":"762518"},{"count":"1-31, 2-48","name":"Đường Liên Khu 12, Hẻm 74","zipCode":"762519"},{"count":"2-40","name":"Đường Liên Khu 12, Hẻm 84","zipCode":"762520"},{"count":"2-38","name":"Đường Liên Khu 12, Hẻm 86","zipCode":"762521"},{"count":"1-5, 2-10","name":"Đường Liên Khu 12, Hẻm 9","zipCode":"762505"},{"count":"43-109","name":"Đường Liên Khu 18","zipCode":"762488"},{"count":"2-10","name":"Đường Liên Khu 18, Hẻm 55","zipCode":"762489"}]
+      },
+      {
+        "name": "Bình Hưng Hòa B",
+        "slug": "Binh_Hung_Hoa_B_Binh_Tan_Dong_Nam_Bo",
+        "totalPlace": "134",
+        "child": [{"count":"Khu dân cư Vĩnh Lộc","name":"Đường 16","zipCode":"762741"},{"count":"1-177, 2-184","name":"Đường Hồ Văn Long","zipCode":"762620"},{"count":"1-25, 2-12","name":"Đường Hồ Văn Long, Hẻm 1","zipCode":"762621"},{"count":"1-11, 2-12","name":"Đường Hồ Văn Long, Hẻm 175","zipCode":"762630"},{"count":"1-55, 2-42","name":"Đường Hồ Văn Long, Hẻm 177","zipCode":"762631"},{"count":"1-25, 2-24","name":"Đường Hồ Văn Long, Hẻm 2","zipCode":"762632"},{"count":"1-15, 2-16","name":"Đường Hồ Văn Long, Hẻm 35","zipCode":"762623"},{"count":"1-63, 2-62","name":"Đường Hồ Văn Long, Hẻm 37","zipCode":"762624"},{"count":"1-7, 2-8","name":"Đường Hồ Văn Long, Hẻm 37, Ngách 23","zipCode":"762625"},{"count":"1-9, 2-10","name":"Đường Hồ Văn Long, Hẻm 37, Ngách 40","zipCode":"762626"},{"count":"1-5, 2-6","name":"Đường Hồ Văn Long, Hẻm 37, Ngách 62","zipCode":"762627"},{"count":"1-33, 2-38","name":"Đường Hồ Văn Long, Hẻm 40","zipCode":"762633"},{"count":"1-73, 2-44","name":"Đường Hồ Văn Long, Hẻm 5","zipCode":"762622"},{"count":"1-29, 2-26","name":"Đường Hồ Văn Long, Hẻm 68","zipCode":"762634"},{"count":"1-9, 2-10","name":"Đường Hồ Văn Long, Hẻm 69","zipCode":"762628"},{"count":"1-11, 2-10","name":"Đường Hồ Văn Long, Hẻm 79","zipCode":"762629"},{"count":"1-357, 2-224","name":"Đường Nguyễn Thị Tú","zipCode":"762609"},{"count":"1-35, 2-34","name":"Đường Nguyễn Thị Tú, Hẻm 107","zipCode":"762618"},{"count":"1-23, 2-22","name":"Đường Nguyễn Thị Tú, Hẻm 27","zipCode":"762610"},{"count":"1-35, 2-36","name":"Đường Nguyễn Thị Tú, Hẻm 289","zipCode":"762619"},{"count":"1-11, 2-12","name":"Đường Nguyễn Thị Tú, Hẻm 51","zipCode":"762611"},{"count":"1-65, 2-62","name":"Đường Nguyễn Thị Tú, Hẻm 67","zipCode":"762612"},{"count":"1-27, 2-28","name":"Đường Nguyễn Thị Tú, Hẻm 67, Ngách 11","zipCode":"762614"},{"count":"1-11, 2-12","name":"Đường Nguyễn Thị Tú, Hẻm 67, Ngách 20","zipCode":"762615"},{"count":"1-9, 2-10","name":"Đường Nguyễn Thị Tú, Hẻm 67, Ngách 5","zipCode":"762613"},{"count":"1-3, 2-4","name":"Đường Nguyễn Thị Tú, Hẻm 78","zipCode":"762616"},{"count":"1-19, 2-20","name":"Đường Nguyễn Thị Tú, Hẻm 78, Ngách 4","zipCode":"762617"},{"count":"2-164","name":"Đường Quốc Lộ 1a","zipCode":"762606"},{"count":"222-808","name":"Đường Quốc Lộ 1a","zipCode":"762663"},{"count":"1-25, 2-26","name":"Đường Quốc Lộ 1a, Hẻm 100","zipCode":"762607"},{"count":"1-77, 2-56","name":"Đường Quốc Lộ 1a, Hẻm 100, Ngách 18","zipCode":"762608"},{"count":"1-69, 2-64","name":"Đường Quốc Lộ 1a, Hẻm 330","zipCode":"762664"},{"count":"1-13, 2-12","name":"Đường Quốc Lộ 1a, Hẻm 330, Ngách 8","zipCode":"762666"},{"count":"1-61, 2-44","name":"Đường Quốc Lộ 1a, Hẻm 500","zipCode":"762665"},{"count":"1-71, 2-50","name":"Đường Quốc Lộ 1a, Hẻm 500, Ngách 38","zipCode":"762667"},{"count":"1-7, 2-22","name":"Đường Quốc Lộ 1a, Hẻm 500, Ngách 41","zipCode":"762668"},{"count":"1-31, 2-32","name":"Đường Quốc Lộ 1a, Hẻm 500, Ngách 61","zipCode":"762669"},{"count":"1-77, 2-56","name":"Đường Quốc Lộ 1a, Hẻm 738","zipCode":"762670"},{"count":"1-17, 2-10","name":"Đường Quốc Lộ 1a, Hẻm 738, Ngách 35","zipCode":"762671"},{"count":"1-43, 2-36","name":"Đường Quốc Lộ 1a, Hẻm 738, Ngách 41","zipCode":"762672"},{"count":"1-19","name":"Đường Quốc Lộ 1a, Hẻm 746","zipCode":"762674"},{"count":"1-33, 2-44","name":"Đường Quốc Lộ 1a, Hẻm 762","zipCode":"762673"},{"count":"1-33","name":"Đường Quốc Lộ 1a, Hẻm 762, Ngách 33","zipCode":"762675"},{"count":"1-89","name":"Đường Quốc Lộ 1a, Hẻm 762, Ngách 36","zipCode":"762676"},{"count":"1-73, 2-72","name":"Đường Quốc Lộ 1a, Hẻm 762, Ngách 40","zipCode":"762677"},{"count":"1-13, 2-26","name":"Đường Quốc Lộ 1a, Hẻm 770","zipCode":"762678"},{"count":"1-7, 2-10","name":"Đường Quốc Lộ 1a, Hẻm 770, Ngách 5","zipCode":"762679"},{"count":"Tổ 48","name":"Khóm 5","zipCode":"762713"},{"count":"Tổ 23","name":"Khóm 6","zipCode":"762731"},{"count":"","name":"Khu công nghiệp Vĩnh Lộc, Lô A","zipCode":"762635"}]
+      },
+      {
+        "name": "Bình Trị Đông",
+        "slug": "Binh_Tri_Dong_Binh_Tan_Dong_Nam_Bo",
+        "totalPlace": "370",
+        "child": [{"count":"17-165","name":"Đường Lê Văn Quới","zipCode":"762901"},{"count":"1-25, 2-12","name":"Đường Lê Văn Quới, Hẻm 155","zipCode":"762902"},{"count":"1-13, 2-12","name":"Đường Lê Văn Quới, Hẻm 155, Ngách 12","zipCode":"762904"},{"count":"1-29, 2-28","name":"Đường Lê Văn Quới, Hẻm 155, Ngách 15","zipCode":"762905"},{"count":"1-25, 2-24","name":"Đường Lê Văn Quới, Hẻm 155, Ngách 25","zipCode":"762906"},{"count":"1-7, 2-8","name":"Đường Lê Văn Quới, Hẻm 155, Ngách 6","zipCode":"762903"},{"count":"2-12","name":"Đường Lê Văn Quới, Hẻm 165","zipCode":"762907"},{"count":"Tổ 1","name":"Khu phố 1","zipCode":"762848"},{"count":"Tổ 10","name":"Khu phố 1","zipCode":"762849"},{"count":"Tổ 11","name":"Khu phố 1","zipCode":"762885"},{"count":"Tổ 12","name":"Khu phố 1","zipCode":"762908"},{"count":"Tổ 13","name":"Khu phố 1","zipCode":"762909"},{"count":"Tổ 14","name":"Khu phố 1","zipCode":"762910"},{"count":"Tổ 15","name":"Khu phố 1","zipCode":"762911"},{"count":"Tổ 16","name":"Khu phố 1","zipCode":"762852"},{"count":"Tổ 17","name":"Khu phố 1","zipCode":"762912"},{"count":"Tổ 18","name":"Khu phố 1","zipCode":"762913"},{"count":"Tổ 19","name":"Khu phố 1","zipCode":"762914"},{"count":"Tổ 2","name":"Khu phố 1","zipCode":"762878"},{"count":"Tổ 20","name":"Khu phố 1","zipCode":"762915"},{"count":"Tổ 21","name":"Khu phố 1","zipCode":"762916"},{"count":"Tổ 22","name":"Khu phố 1","zipCode":"762917"},{"count":"Tổ 23","name":"Khu phố 1","zipCode":"762918"},{"count":"Tổ 24","name":"Khu phố 1","zipCode":"762919"},{"count":"Tổ 25","name":"Khu phố 1","zipCode":"762920"},{"count":"Tổ 26","name":"Khu phố 1","zipCode":"762921"},{"count":"Tổ 27","name":"Khu phố 1","zipCode":"762922"},{"count":"Tổ 28","name":"Khu phố 1","zipCode":"762923"},{"count":"Tổ 29","name":"Khu phố 1","zipCode":"762924"},{"count":"Tổ 3","name":"Khu phố 1","zipCode":"762880"},{"count":"Tổ 30","name":"Khu phố 1","zipCode":"762925"},{"count":"Tổ 4","name":"Khu phố 1","zipCode":"762881"},{"count":"Tổ 5","name":"Khu phố 1","zipCode":"762882"},{"count":"Tổ 6","name":"Khu phố 1","zipCode":"762883"},{"count":"Tổ 7","name":"Khu phố 1","zipCode":"762884"},{"count":"Tổ 8","name":"Khu phố 1","zipCode":"762850"},{"count":"Tổ 9","name":"Khu phố 1","zipCode":"762851"},{"count":"Tổ 173","name":"Khu phố 10","zipCode":"762893"},{"count":"Tổ 174","name":"Khu phố 10","zipCode":"762894"},{"count":"Tổ 175","name":"Khu phố 10","zipCode":"762895"},{"count":"Tổ 176","name":"Khu phố 10","zipCode":"762896"},{"count":"Tổ 177","name":"Khu phố 10","zipCode":"764132"},{"count":"Tổ 178","name":"Khu phố 10","zipCode":"764133"},{"count":"Tổ 179","name":"Khu phố 10","zipCode":"764134"},{"count":"Tổ 180","name":"Khu phố 10","zipCode":"764135"},{"count":"Tổ 181","name":"Khu phố 10","zipCode":"764136"},{"count":"Tổ 182","name":"Khu phố 10","zipCode":"764137"},{"count":"Tổ 183","name":"Khu phố 10","zipCode":"764138"},{"count":"Tổ 184","name":"Khu phố 10","zipCode":"764139"},{"count":"Tổ 185","name":"Khu phố 10","zipCode":"764140"}]
+      },
+      {
+        "name": "Bình Trị Đông A",
+        "slug": "Binh_Tri_Dong_A_Binh_Tan_Dong_Nam_Bo",
+        "totalPlace": "44",
+        "child": [{"count":"","name":"Đường CHIẾN LƯỢT","zipCode":"763048"},{"count":"","name":"Đường ĐẤT MỚI","zipCode":"763046"},{"count":"","name":"Đường HƯƠNG LỘ2 KHU PHỐ 8","zipCode":"763051"},{"count":"","name":"Đường Lê Văn Quới","zipCode":"763049"},{"count":"187-229","name":"Đường Lê Văn Quới","zipCode":"763036"},{"count":"1-35, 2-14","name":"Đường Lê Văn Quới, Hẻm 365","zipCode":"763033"},{"count":"1-17, 2-18","name":"Đường Lê Văn Quới, Hẻm 389","zipCode":"763038"},{"count":"1-145, 2-140","name":"Đường Lê Văn Quới, Hẻm 413","zipCode":"763039"},{"count":"2-20","name":"Đường Lê Văn Quới, Hẻm 413, Ngách 140","zipCode":"763044"},{"count":"1-11, 2-20","name":"Đường Lê Văn Quới, Hẻm 413, Ngách 48","zipCode":"763040"},{"count":"1-9, 2-10","name":"Đường Lê Văn Quới, Hẻm 413, Ngách 70","zipCode":"763041"},{"count":"1-9","name":"Đường Lê Văn Quới, Hẻm 413, Ngách 73","zipCode":"763042"},{"count":"2-28","name":"Đường Lê Văn Quới, Hẻm 413, Ngách 84","zipCode":"763037"},{"count":"1-51, 2-66","name":"Đường Lê Văn Quới, Hẻm 427","zipCode":"763043"},{"count":"","name":"Đường Mã Lò","zipCode":"763045"},{"count":"","name":"Đường MÃ LÒ","zipCode":"763047"},{"count":"KHU PHỐ 8","name":"Đường QUỐC LỘ 1A","zipCode":"763050"},{"count":"Tổ 1","name":"Khóm 8","zipCode":"763020"},{"count":"Tổ 2","name":"Khóm 8","zipCode":"763021"},{"count":"Tổ 1","name":"Khu phố 1","zipCode":"763009"},{"count":"Tổ 10","name":"Khu phố 1","zipCode":"763026"},{"count":"Tổ 11","name":"Khu phố 1","zipCode":"763027"},{"count":"Tổ 12","name":"Khu phố 1","zipCode":"763028"},{"count":"Tổ 15","name":"Khu phố 1","zipCode":"763029"},{"count":"Tổ 2","name":"Khu phố 1","zipCode":"763008"},{"count":"Tổ 3","name":"Khu phố 1","zipCode":"763010"},{"count":"Tổ 4","name":"Khu phố 1","zipCode":"763011"},{"count":"Tổ 5","name":"Khu phố 1","zipCode":"763022"},{"count":"Tổ 6","name":"Khu phố 1","zipCode":"763012"},{"count":"Tổ 7","name":"Khu phố 1","zipCode":"763023"},{"count":"Tổ 8","name":"Khu phố 1","zipCode":"763024"},{"count":"Tổ 9","name":"Khu phố 1","zipCode":"763025"},{"count":"Tổ 15","name":"Khu phố 3","zipCode":"763031"},{"count":"Tổ 5","name":"Khu phố 3","zipCode":"763030"},{"count":"Tổ 16","name":"Khu phố 4","zipCode":"763032"},{"count":"Tổ 16","name":"Khu phố 5","zipCode":"763034"},{"count":"Tổ 3","name":"Khu phố 6","zipCode":"763013"},{"count":"Tổ 4","name":"Khu phố 6","zipCode":"763014"},{"count":"Tổ 5","name":"Khu phố 6","zipCode":"763015"},{"count":"Tổ 6","name":"Khu phố 6","zipCode":"763016"},{"count":"Tổ 7","name":"Khu phố 6","zipCode":"763035"},{"count":"Tổ 10","name":"Khu phố 7","zipCode":"763019"},{"count":"Tổ 8","name":"Khu phố 7","zipCode":"763017"},{"count":"Tổ 9","name":"Khu phố 7","zipCode":"763018"}]
+      },
+      {
+        "name": "Bình Trị Đông B",
+        "slug": "Binh_Tri_Dong_B_Binh_Tan_Dong_Nam_Bo",
+        "totalPlace": "45",
+        "child": [{"count":"Tổ 100","name":"Cụm 4","zipCode":"763118"},{"count":"Khu dân cư An Lạc - Bình Trị Đông","name":"Đường 19","zipCode":"763148"},{"count":"Khu dân cư An Lạc-Bình Trị Đông","name":"Đường 23","zipCode":"763144"},{"count":"Khu dân cư An Lạc - Bình Trị Đông","name":"Đường 24A","zipCode":"763145"},{"count":"Khu dân cư An Lạc-Bình Trị Đông","name":"Đường 3A","zipCode":"763146"},{"count":"Khu dân cư An Lạc - Bình Trị Đông","name":"Đường 6","zipCode":"763147"},{"count":"Khu dân cư An Lạc - Bình Trị Đông","name":"Đường 7a","zipCode":"763141"},{"count":"","name":"Đường QUỐC LỘ 1A","zipCode":"763149"},{"count":"Khu dân cư An Lạc - Bình Trị Đông","name":"Đường Số 1","zipCode":"763142"},{"count":"Khu dân cư Thăng Long","name":"Đường Số 2","zipCode":"763128"},{"count":"Khu dân cư Thăng Long","name":"Đường Số 4","zipCode":"763127"},{"count":"Khu dân cư Thăng Long","name":"Đường Số 6","zipCode":"763129"},{"count":"Khu dân cư An Lạc - Bình Trị Đông","name":"Đường Số 7","zipCode":"763143"},{"count":"","name":"Đường TÊN LỬA","zipCode":"763150"},{"count":"Tổ 111","name":"Khóm 5","zipCode":"763133"},{"count":"Tổ 10","name":"Khu phố 1","zipCode":"763125"},{"count":"Tổ 12","name":"Khu phố 1","zipCode":"763126"},{"count":"Tổ 9","name":"Khu phố 1","zipCode":"763124"},{"count":"Tổ 101","name":"Khu phố 4","zipCode":"763115"},{"count":"Tổ 102","name":"Khu phố 4","zipCode":"763107"},{"count":"Tổ 104","name":"Khu phố 4","zipCode":"763108"},{"count":"Tổ 105","name":"Khu phố 4","zipCode":"763114"},{"count":"Tổ 106","name":"Khu phố 4","zipCode":"763106"},{"count":"Tổ 88","name":"Khu phố 4","zipCode":"763109"},{"count":"Tổ 89","name":"Khu phố 4","zipCode":"763110"},{"count":"Tổ 90","name":"Khu phố 4","zipCode":"763122"},{"count":"Tổ 91","name":"Khu phố 4","zipCode":"763111"},{"count":"Tổ 92","name":"Khu phố 4","zipCode":"763123"},{"count":"Tổ 93","name":"Khu phố 4","zipCode":"763113"},{"count":"Tổ 94","name":"Khu phố 4","zipCode":"763112"},{"count":"Tổ 95","name":"Khu phố 4","zipCode":"763119"},{"count":"Tổ 96","name":"Khu phố 4","zipCode":"763120"},{"count":"Tổ 97","name":"Khu phố 4","zipCode":"763121"},{"count":"Tổ 98","name":"Khu phố 4","zipCode":"763117"},{"count":"Tổ 99","name":"Khu phố 4","zipCode":"763116"},{"count":"Tổ 108","name":"Khu phố 5","zipCode":"763131"},{"count":"Tổ 109","name":"Khu phố 5","zipCode":"763130"},{"count":"Tổ 110","name":"Khu phố 5","zipCode":"763132"},{"count":"Tổ 112","name":"Khu phố 5","zipCode":"763134"},{"count":"Tổ 113","name":"Khu phố 5","zipCode":"763135"},{"count":"Tổ 114","name":"Khu phố 5","zipCode":"763136"},{"count":"Tổ 115","name":"Khu phố 5","zipCode":"763137"},{"count":"Tổ 116","name":"Khu phố 5","zipCode":"763138"},{"count":"Tổ 117","name":"Khu phố 5","zipCode":"763139"},{"count":"Tổ 118","name":"Khu phố 5","zipCode":"763140"}]
+      },
+      {
+        "name": "Tân Tạo",
+        "slug": "Tan_Tao_Binh_Tan_Dong_Nam_Bo",
+        "totalPlace": "19",
+        "child": [{"count":"Tổ 12","name":"Cụm Dân Cư Bình Trị Đông","zipCode":"763215"},{"count":"Tổ 5","name":"Cụm Dân Cư Bình Trị Đông","zipCode":"763214"},{"count":"","name":"Đường Chiến lượt","zipCode":"763226"},{"count":"","name":"Đường Hồ Văn Long","zipCode":"763231"},{"count":"","name":"Đường NGUYỄN TRIỆU LUẬT","zipCode":"763227"},{"count":"","name":"Đường QUỐC LỘ 1A","zipCode":"763228"},{"count":"1332 -1814","name":"Đường Tĩnh Lộ 10","zipCode":"763216"},{"count":"","name":"Đường TỈNH LỘ 10","zipCode":"763229"},{"count":"1-11, 2-20","name":"Đường Tĩnh Lộ 10, Hẻm 1526","zipCode":"763217"},{"count":"1-5, 2-4","name":"Đường Tĩnh Lộ 10, Hẻm 1526, Ngách 16","zipCode":"763218"},{"count":"1-29","name":"Đường Tĩnh Lộ 10, Hẻm 1560","zipCode":"763219"},{"count":"2-40","name":"Đường Tĩnh Lộ 10, Hẻm 1560, Ngách 7","zipCode":"763221"},{"count":"1-15, 2-10","name":"Đường Tĩnh Lộ 10, Hẻm 1628","zipCode":"763222"},{"count":"1-13, 2-14","name":"Đường Tĩnh Lộ 10, Hẻm 1686","zipCode":"763223"},{"count":"1-23, 2-24","name":"Đường Võ Văn Vân","zipCode":"763224"},{"count":"Tổ 10","name":"Khu phố 7","zipCode":"763211"},{"count":"Tổ 6","name":"Khu phố 7","zipCode":"763212"},{"count":"","name":"Khu phố 9","zipCode":"763213"},{"count":"3","name":"Tân Tạo","zipCode":"763225"}]
+      },
+      {
+        "name": "Tân Tạo A",
+        "slug": "Tan_Tao_A_Binh_Tan_Dong_Nam_Bo",
+        "totalPlace": "83",
+        "child": [{"count":"Khu công nghiệp Tân Tạo","name":"Đường B","zipCode":"763315"},{"count":"1-199, 2-210","name":"Đường Bờ Sông","zipCode":"763347"},{"count":"2-148","name":"Đường Bờ Tuyến","zipCode":"763355"},{"count":"Khu công nghiệp Tân Tạo","name":"Đường C","zipCode":"763316"},{"count":"1-183, 2-128","name":"Đường Cầu Kinh","zipCode":"763345"},{"count":"Khu công nghiệp Tân Tạo","name":"Đường D","zipCode":"763317"},{"count":"77-81","name":"Đường Kinh Số 4","zipCode":"763324"},{"count":"25-31","name":"Đường Kinh Số 5","zipCode":"763325"},{"count":"1-25, 2-42","name":"Đường Lộ Tẻ","zipCode":"763356"},{"count":"1-13, 2-8","name":"Đường Lộ Tẻ, Hẻm 36","zipCode":"763358"},{"count":"1-11, 2-16","name":"Đường Lộ Tẻ, Hẻm 7","zipCode":"763357"},{"count":"4302 -4434, 4303-4547","name":"Đường Nguyễn Cữu Phú","zipCode":"763346"},{"count":"3-219","name":"Đường Nguyễn Kinh C","zipCode":"763318"},{"count":"2-90, 3-49","name":"Đường Nguyễn Văn Cự","zipCode":"763342"},{"count":"1-3, 2-4","name":"Đường Nguyễn Văn Cự, Hẻm 27","zipCode":"763343"},{"count":"2-36, 5-25","name":"Đường Nguyễn Văn Cự, Hẻm 27, Ngách 3","zipCode":"763344"},{"count":"2-122","name":"Đường Quốc Lộ 1a, Hẻm 1166","zipCode":"763377"},{"count":"1-7, 2-44","name":"Đường Quốc Lộ 1a, Hẻm 1166, Ngách 12","zipCode":"763379"},{"count":"1-13","name":"Đường Quốc Lộ 1a, Hẻm 1166, Ngách 2","zipCode":"763378"},{"count":"1-79, 2-62","name":"Đường Quốc Lộ 1a, Hẻm 1166, Ngách 60","zipCode":"763380"},{"count":"1-11, 2-10","name":"Đường Quốc Lộ 1a, Hẻm 1166, Ngách 90","zipCode":"763381"},{"count":"Khu công nghiệp Tân Tạo","name":"Đường Số 1","zipCode":"763313"},{"count":"Khu công nghiệp Tân Tạo","name":"Đường Số 1a","zipCode":"763314"},{"count":"4-100","name":"Đường Số 1-khu Phố 5","zipCode":"763319"},{"count":"1-3","name":"Đường Số 1- Khu Phố 5, Hẻm 31","zipCode":"763320"},{"count":"1-3","name":"Đường Số 1-khu Phố 5, Hẻm 72","zipCode":"763321"},{"count":"2-8","name":"Đường Số 1-khu Phố 5, Hẻm 72, Ngách 1","zipCode":"763322"},{"count":"2-18","name":"Đường Số 1- Khu Phố 5, Hẻm 78","zipCode":"763323"},{"count":"10-44","name":"Đường Số 2","zipCode":"763348"},{"count":"Khu công nghiệp Tân Tạo","name":"Đường Số 2","zipCode":"763312"},{"count":"Khu công nghiệp Tân Tạo","name":"Đường Số 3","zipCode":"763311"},{"count":"Khu công nghiệp Khu công nghiệp Tân Tạo","name":"Đường số 5","zipCode":"763392"},{"count":"Khu công nghiệp Tân Tạo","name":"Đường Song Hành","zipCode":"763309"},{"count":"2-202","name":"Đường Tập Đòan 6b","zipCode":"763372"},{"count":"1-27, 2-30","name":"Đường Tập Đòan 6, Hẻm 102","zipCode":"763375"},{"count":"1-21, 2-22","name":"Đường Tập Đòan 6, Hẻm 170","zipCode":"763376"},{"count":"1-21, 2-12","name":"Đường Tập Đòan 6, Hẻm 30","zipCode":"763373"},{"count":"1-25, 2-22","name":"Đường Tập Đòan 6, Hẻm 92","zipCode":"763374"},{"count":"1299-1779","name":"Đường Tĩnh Lộ 10","zipCode":"763326"},{"count":"2-10","name":"Đường Tĩnh Lộ 10, Hẻm 1363","zipCode":"763327"},{"count":"2-20","name":"Đường Tĩnh Lộ 10, Hẻm 1637","zipCode":"763328"},{"count":"4-14","name":"Đường Tĩnh Lộ 10, Hẻm 1647","zipCode":"763329"},{"count":"1-9, 2-6","name":"Đường Tĩnh Lộ 10, Hẻm 1667","zipCode":"763337"},{"count":"1-7, 2-4","name":"Đường Tĩnh Lộ 10, Hẻm 1669","zipCode":"763330"},{"count":"2-4","name":"Đường Tĩnh Lộ 10, Hẻm 1669, Ngách 1","zipCode":"763331"},{"count":"1-3, 2-4","name":"Đường Tĩnh Lộ 10, Hẻm 1669, Ngách 2","zipCode":"763332"},{"count":"1-13","name":"Đường Tĩnh Lộ 10, Hẻm 1669, Ngách 4","zipCode":"763334"},{"count":"2-4","name":"Đường Tĩnh Lộ 10, Hẻm 1669, Ngách 5","zipCode":"763335"},{"count":"2-8","name":"Đường Tĩnh Lộ 10, Hẻm 1669, Ngách 7","zipCode":"763336"},{"count":"1-13, 2-8","name":"Đường Tĩnh Lộ 10, Hẻm 1677, Ngách 6","zipCode":"763338"}]
+      }
+    ]
+  },
+  {
+    "name": "Bình Thạnh",
+    "slug": "Binh_Thanh",
+    "ign": "765",
+    "hasc": "VN.HC.BH",
+    "totalPlace": "887",
+    "child": [
+      {
+        "name": "Số 1",
+        "slug": "So_1_Binh_Thanh",
+        "totalPlace": "23",
+        "child": [{"count":"25-339","name":"Đường Bùi Hữu Nghĩa","zipCode":"718321"},{"count":"1-9, 2-10","name":"Đường Bùi Hữu Nghĩa, Hẻm 319","zipCode":"718323"},{"count":"2-216, 223-289","name":"Đường Diên Hồng","zipCode":"718303"},{"count":"1-13, 2-6","name":"Đường Diên Hồng, Hẻm 229","zipCode":"718306"},{"count":"1-21, 2-16","name":"Đường Diên Hồng, Hẻm 289","zipCode":"718307"},{"count":"1-17, 2-24","name":"Đường Diên Hồng, Hẻm 6","zipCode":"718304"},{"count":"1-13","name":"Đường Diên Hồng, Hẻm 98","zipCode":"718305"},{"count":"01-119, 02-120","name":"Đường Đinh Tiên Hoàng","zipCode":"718324"},{"count":"1-43","name":"Đường Hồng Bàng","zipCode":"718302"},{"count":"1-43, 2-46","name":"Đường Ngô Nhân Tịnh","zipCode":"718308"},{"count":"1-15","name":"Đường Ngô Nhân Tịnh, Hẻm 4","zipCode":"718309"},{"count":"1-29, 2-20","name":"Đường Nguyễn Thái Học","zipCode":"718314"},{"count":"1-41, 2-22","name":"Đường Nguyễn Thái Học, Hẻm 42","zipCode":"718315"},{"count":"1-123, 2-118","name":"Đường Phó Đức Chính","zipCode":"718310"},{"count":"1-7, 2-18","name":"Đường Phó Đức Chính, Hẻm 81","zipCode":"718311"},{"count":"2-42","name":"Đường Trịnh Hòai Đức","zipCode":"718301"},{"count":"1-47, 2-98","name":"Đường Vũ Tùng","zipCode":"718312"},{"count":"1-5","name":"Đường Vũ Tùng, Hẻm 31","zipCode":"718313"},{"count":"1-77, 2-72","name":"Đường Yên Đỗ","zipCode":"718316"},{"count":"1-21, 2-46","name":"Đường Yên Đỗ, Hẻm 44","zipCode":"718317"},{"count":"2-56","name":"Đường Yên Đỗ, Hẻm 46","zipCode":"718318"},{"count":"2-8","name":"Đường Yên Đỗ, Hẻm 54","zipCode":"718319"},{"count":"1-5","name":"Đường Yên Đỗ, Hẻm 69","zipCode":"718320"}]
+      },
+      {
+        "name": "Số 11",
+        "slug": "So_11_Binh_Thanh",
+        "totalPlace": "58",
+        "child": [{"count":"1-45, 2-44","name":"Đường Mai Xuân Thưởng","zipCode":"717825"},{"count":"1-43, 2-44","name":"Đường Mai Xuân Thưởng, Hẻm 317","zipCode":"717826"},{"count":"45-131, 64-116","name":"Đường Nguyên Hồng","zipCode":"717827"},{"count":"Khu cư xá Nguyên Hồng","name":"Đường Nguyên Hồng","zipCode":"717860"},{"count":"1-17, 2-10","name":"Đường Nguyên Hồng, Hẻm 106","zipCode":"717829"},{"count":"2-40","name":"Đường Nguyên Hồng, Hẻm 123","zipCode":"717834"},{"count":"1-7, 2-20","name":"Đường Nguyên Hồng, Hẻm 129","zipCode":"717835"},{"count":"1-19, 2-34","name":"Đường Nguyên Hồng, Hẻm 45","zipCode":"717830"},{"count":"1-21, 2-24","name":"Đường Nguyên Hồng, Hẻm 47","zipCode":"717831"},{"count":"1-7, 2-6","name":"Đường Nguyên Hồng, Hẻm 69","zipCode":"717832"},{"count":"1-19, 2-20","name":"Đường Nguyên Hồng, Hẻm 91","zipCode":"717833"},{"count":"1-95, 2-34","name":"Đường Nguyên Hồng, Hẻm 92","zipCode":"717828"},{"count":"179-289, 200-316","name":"Đường Nguyễn Văn Đậu","zipCode":"717812"},{"count":"1-15, 2-10","name":"Đường Nguyễn Văn Đậu, Hẻm 149","zipCode":"717821"},{"count":"1-11, 2-8","name":"Đường Nguyễn Văn Đậu, Hẻm 157","zipCode":"717822"},{"count":"1-55, 2-72","name":"Đường Nguyễn Văn Đậu, Hẻm 177","zipCode":"717823"},{"count":"2-8","name":"Đường Nguyễn Văn Đậu, Hẻm 226","zipCode":"717813"},{"count":"1-11, 2-16","name":"Đường Nguyễn Văn Đậu, Hẻm 229","zipCode":"717824"},{"count":"1-13, 2-8","name":"Đường Nguyễn Văn Đậu, Hẻm 234","zipCode":"717814"},{"count":"1-7, 2-6","name":"Đường Nguyễn Văn Đậu, Hẻm 256","zipCode":"717815"},{"count":"1-9, 2-8","name":"Đường Nguyễn Văn Đậu, Hẻm 268","zipCode":"717816"},{"count":"1-7, 2-20","name":"Đường Nguyễn Văn Đậu, Hẻm 274","zipCode":"717817"},{"count":"1-3, 2-6","name":"Đường Nguyễn Văn Đậu, Hẻm 278","zipCode":"717818"},{"count":"1-11, 2-10","name":"Đường Nguyễn Văn Đậu, Hẻm 288","zipCode":"717819"},{"count":"1-3, 2-10","name":"Đường Nguyễn Văn Đậu, Hẻm 312","zipCode":"717820"},{"count":"57-123","name":"Đường Nơ Trang Long","zipCode":"717808"},{"count":"1-45, 2-38","name":"Đường Nơ Trang Long, Hẻm 69","zipCode":"717809"},{"count":"1-11, 2-24","name":"Đường Nơ Trang Long, Hẻm 93","zipCode":"717811"},{"count":"1-9, 2-42","name":"Đường Nơ Trang Long, Hẻm 99","zipCode":"717810"},{"count":"215-401, 276-360","name":"Đường Phan Văn Trị","zipCode":"717836"},{"count":"Khu chung cư Phan Văn Trị","name":"Đường Phan Văn Trị","zipCode":"717858"},{"count":"Khu cư xá Hiền Hương","name":"Đường Phan Văn Trị","zipCode":"717859"},{"count":"1-27, 2-10","name":"Đường Phan Văn Trị, Hẻm 215","zipCode":"717837"},{"count":"1-15, 2-8","name":"Đường Phan Văn Trị, Hẻm 229","zipCode":"717838"},{"count":"1-25, 2-26","name":"Đường Phan Văn Trị, Hẻm 234","zipCode":"717852"},{"count":"1-11, 2-16","name":"Đường Phan Văn Trị, Hẻm 235","zipCode":"717839"},{"count":"1-19, 2-18","name":"Đường Phan Văn Trị, Hẻm 237","zipCode":"717840"},{"count":"1-9, 2-26","name":"Đường Phan Văn Trị, Hẻm 249","zipCode":"717841"},{"count":"1-5, 2-6","name":"Đường Phan Văn Trị, Hẻm 261","zipCode":"717842"},{"count":"1-9, 2-8","name":"Đường Phan Văn Trị, Hẻm 274","zipCode":"717849"},{"count":"1-37, 2-34","name":"Đường Phan Văn Trị, Hẻm 298","zipCode":"717850"},{"count":"1-45, 2-48","name":"Đường Phan Văn Trị, Hẻm 328","zipCode":"717851"},{"count":"1-131, 2-80","name":"Đường Phan Văn Trị, Hẻm 334","zipCode":"717853"},{"count":"1-119, 2-112","name":"Đường Phan Văn Trị, Hẻm 336","zipCode":"717854"},{"count":"1-21, 2-24","name":"Đường Phan Văn Trị, Hẻm 345","zipCode":"717843"},{"count":"1-119, 2-98","name":"Đường Phan Văn Trị, Hẻm 346","zipCode":"717855, 717856"},{"count":"1-139, 2-98","name":"Đường Phan Văn Trị, Hẻm 348","zipCode":"717857"},{"count":"1-17, 2-16","name":"Đường Phan Văn Trị, Hẻm 361","zipCode":"717844"},{"count":"1-25, 2-14","name":"Đường Phan Văn Trị, Hẻm 369","zipCode":"717845"},{"count":"1-75, 2-78","name":"Đường Phan Văn Trị, Hẻm 377","zipCode":"717846"}]
+      },
+      {
+        "name": "Số 12",
+        "slug": "So_12_Binh_Thanh",
+        "totalPlace": "74",
+        "child": [{"count":"1-797","name":"Đường Bùi Đình Túy","zipCode":"717541"},{"count":"Khu cư xá Công An","name":"Đường Bùi Đình Túy","zipCode":"717553"},{"count":"1-41","name":"Đường Bùi Đình Túy, Hẻm 103","zipCode":"717552"},{"count":"1-65","name":"Đường Bùi Đình Túy, Hẻm 11","zipCode":"717543"},{"count":"16-18","name":"Đường Bùi Đình Túy, Hẻm 45","zipCode":"717544"},{"count":"1-21","name":"Đường Bùi Đình Túy, Hẻm 55","zipCode":"717545"},{"count":"2-240, 7-205","name":"Đường Bùi Đình Túy, Hẻm 67","zipCode":"717547"},{"count":"1-45, 2-46","name":"Đường Bùi Đình Túy, Hẻm 71","zipCode":"717548"},{"count":"8-34","name":"Đường Bùi Đình Túy, Hẻm 73","zipCode":"717549"},{"count":"2-56","name":"Đường Bùi Đình Túy, Hẻm 75","zipCode":"717546"},{"count":"1-15, 2-16","name":"Đường Bùi Đình Túy, Hẻm 83","zipCode":"717550"},{"count":"9-35","name":"Đường Bùi Đình Túy, Hẻm 9","zipCode":"717542"},{"count":"1-21, 2-22","name":"Đường Bùi Đình Túy, Hẻm 93","zipCode":"717551"},{"count":"1-125, 2-190","name":"Đường Chu Văn An","zipCode":"717520"},{"count":"2-40","name":"Đường Chu Văn An, Hẻm 122","zipCode":"717525"},{"count":"1-77","name":"Đường Chu Văn An, Hẻm 15","zipCode":"717526"},{"count":"1-37","name":"Đường Chu Văn An, Hẻm 17","zipCode":"717527"},{"count":"2-16","name":"Đường Chu Văn An, Hẻm 20","zipCode":"717521"},{"count":"2-68","name":"Đường Chu Văn An, Hẻm 42","zipCode":"717522"},{"count":"1-55, 2-56","name":"Đường Chu Văn An, Hẻm 51","zipCode":"717528"},{"count":"27-77","name":"Đường Chu Văn An, Hẻm 53","zipCode":"717529"},{"count":"1-29","name":"Đường Chu Văn An, Hẻm 55","zipCode":"717530"},{"count":"3-23","name":"Đường Chu Văn An, Hẻm 57","zipCode":"717531"},{"count":"1-69, 2-70","name":"Đường Chu Văn An, Hẻm 59","zipCode":"717532"},{"count":"2-32","name":"Đường Chu Văn An, Hẻm 60","zipCode":"717523"},{"count":"3-97","name":"Đường Chu Văn An, Hẻm 61","zipCode":"717533"},{"count":"1-27, 2-26","name":"Đường Chu Văn An, Hẻm 65","zipCode":"717534"},{"count":"2-26","name":"Đường Chu Văn An, Hẻm 92","zipCode":"717524"},{"count":"1-29, 2-12","name":"Đường Hồ Xuân Hương","zipCode":"717513"},{"count":"1-7, 2-12","name":"Đường Hồ Xuân Hương, Hẻm 11","zipCode":"717579"},{"count":"1-383, 2-384","name":"Đường Nghĩa Địa","zipCode":"717535"},{"count":"1-135, 2-64","name":"Đường Ngô Đức Kế","zipCode":"717514"},{"count":"1-27, 2-56","name":"Đường Ngô Đức Kế, Hẻm 107","zipCode":"717518"},{"count":"1-25, 2-34","name":"Đường Ngô Đức Kế, Hẻm 133","zipCode":"717519"},{"count":"1-65, 2-64","name":"Đường Ngô Đức Kế, Hẻm 37","zipCode":"717515"},{"count":"1-11, 2-12","name":"Đường Ngô Đức Kế, Hẻm 87","zipCode":"717517"},{"count":"41-65","name":"Đường Ngô Đức Kế, Hẻm 92","zipCode":"717516"},{"count":"127-247","name":"Đường Nơ Trang Long","zipCode":"717572"},{"count":"170-334","name":"Đường Nơ Trang Long","zipCode":"717554"},{"count":"Khu dân cư 298","name":"Đường Nơ Trang Long","zipCode":"717559"},{"count":"1-15, 2-12","name":"Đường Nơ Trang Long, Hẻm 149","zipCode":"717573"},{"count":"1-3","name":"Đường Nơ Trang Long, Hẻm 153","zipCode":"717574"},{"count":"1-9, 2-8","name":"Đường Nơ Trang Long, Hẻm 179","zipCode":"717575"},{"count":"1-17, 2-16","name":"Đường Nơ Trang Long, Hẻm 183","zipCode":"717576"},{"count":"8-54, 9-55","name":"Đường Nơ Trang Long, Hẻm 204","zipCode":"717555"},{"count":"1-37, 2-38","name":"Đường Nơ Trang Long, Hẻm 213","zipCode":"717577"},{"count":"1-31, 2-34","name":"Đường Nơ Trang Long, Hẻm 217","zipCode":"717578"},{"count":"1-17, 2-18","name":"Đường Nơ Trang Long, Hẻm 282","zipCode":"717556"},{"count":"1-53, 2-54","name":"Đường Nơ Trang Long, Hẻm 288","zipCode":"717557"},{"count":"1-35, 2-268","name":"Đường Nơ Trang Long, Hẻm 290","zipCode":"717558"}]
+      },
+      {
+        "name": "Số 13",
+        "slug": "So_13_Binh_Thanh",
+        "totalPlace": "33",
+        "child": [{"count":"1-389, 2-350","name":"Đường Bình Lợi","zipCode":"717715"},{"count":"1-21, 2-28","name":"Đường Bình Lợi, Hẻm 127","zipCode":"717716"},{"count":"1-31, 2-34","name":"Đường Bình Lợi, Hẻm 292","zipCode":"717717"},{"count":"1-49, 2-48","name":"Đường Bình Lợi, Hẻm 292, Ngách 33","zipCode":"717718"},{"count":"209-267, 220-292","name":"Đường Nguyễn Xí","zipCode":"717732"},{"count":"273-423, 302-436","name":"Đường Nguyễn Xí","zipCode":"717721"},{"count":"Khu chung cư 76","name":"Đường Nguyễn Xí","zipCode":"717738"},{"count":"1-15, 2-16","name":"Đường Nguyễn Xí, Hẻm 230","zipCode":"717733"},{"count":"1-65, 2-46","name":"Đường Nguyễn Xí, Hẻm 242","zipCode":"717734"},{"count":"1-17, 2-18","name":"Đường Nguyễn Xí, Hẻm 250","zipCode":"717735"},{"count":"1-17, 2-18","name":"Đường Nguyễn Xí, Hẻm 272","zipCode":"717736"},{"count":"1-21, 2-20","name":"Đường Nguyễn Xí, Hẻm 292","zipCode":"717737"},{"count":"249-295, 336-412","name":"Đường Nơ Trang Long","zipCode":"717722"},{"count":"403-565, 482-560","name":"Đường Nơ Trang Long","zipCode":"717707"},{"count":"Khu chung cư 327/8","name":"Đường Nơ Trang Long","zipCode":"717711"},{"count":"Khu chung cư 327/9","name":"Đường Nơ Trang Long","zipCode":"717712"},{"count":"Khu chung cư 327/9b","name":"Đường Nơ Trang Long","zipCode":"717713"},{"count":"Khu chung cư 412/2","name":"Đường Nơ Trang Long","zipCode":"717710"},{"count":"Khu chung cư 477/61","name":"Đường Nơ Trang Long","zipCode":"717714"},{"count":"Khu chung cư 482/1","name":"Đường Nơ Trang Long","zipCode":"717709"},{"count":"11-85","name":"Đường Nơ Trang Long, Hẻm 255","zipCode":"717728"},{"count":"3-17","name":"Đường Nơ Trang Long, Hẻm 257","zipCode":"717729"},{"count":"1-9, 2-6","name":"Đường Nơ Trang Long, Hẻm 259","zipCode":"717730"},{"count":"1-23, 2-24","name":"Đường Nơ Trang Long, Hẻm 271","zipCode":"717731"},{"count":"1-7, 2-20","name":"Đường Nơ Trang Long, Hẻm 336","zipCode":"717723"},{"count":"1-23, 2-28","name":"Đường Nơ Trang Long, Hẻm 338","zipCode":"717724"},{"count":"1-23, 2-24","name":"Đường Nơ Trang Long, Hẻm 342","zipCode":"717725"},{"count":"2-52","name":"Đường Nơ Trang Long, Hẻm 380","zipCode":"717726"},{"count":"2-26","name":"Đường Nơ Trang Long, Hẻm 412","zipCode":"717727"},{"count":"1-49, 2-60","name":"Đường Nơ Trang Long, Hẻm 482","zipCode":"717708"},{"count":"2-54","name":"Đường Quân Sự","zipCode":"717719"},{"count":"35-109","name":"Đường Trục","zipCode":"717720"},{"count":"2-30","name":"Đường Vũ Ngọc Phan","zipCode":"717706"}]
+      },
+      {
+        "name": "Số 14",
+        "slug": "So_14_Binh_Thanh",
+        "totalPlace": "47",
+        "child": [{"count":"272-382","name":"Đường Bạch Đằng","zipCode":"717044"},{"count":"1-11, 2-12","name":"Đường Bạch Đằng, Hẻm 280","zipCode":"717045"},{"count":"1-21, 2-16","name":"Đường Bạch Đằng, Hẻm 356","zipCode":"717046"},{"count":"1-9, 2-10","name":"Đường Bạch Đằng, Hẻm 368","zipCode":"717047"},{"count":"1-95, 38-66","name":"Đường Hùynh Đình Hai","zipCode":"717037"},{"count":"1-9","name":"Đường Hùynh Đình Hai, Hẻm 5","zipCode":"717039"},{"count":"1-165, 2-258","name":"Đường Lê Quang Định","zipCode":"717003"},{"count":"1-171, 2-162","name":"Đường Lê Quang Định, Hẻm 100","zipCode":"717006"},{"count":"2-18","name":"Đường Lê Quang Định, Hẻm 112","zipCode":"717007"},{"count":"2-18","name":"Đường Lê Quang Định, Hẻm 134","zipCode":"717008"},{"count":"1-5, 2-4","name":"Đường Lê Quang Định, Hẻm 146","zipCode":"717009"},{"count":"1-11, 2-8","name":"Đường Lê Quang Định, Hẻm 194","zipCode":"717010"},{"count":"1-17, 2-24","name":"Đường Lê Quang Định, Hẻm 228","zipCode":"717011"},{"count":"1-9, 2-28","name":"Đường Lê Quang Định, Hẻm 54","zipCode":"717004"},{"count":"1-29, 2-30","name":"Đường Lê Quang Định, Hẻm 64","zipCode":"717005"},{"count":"1-37, 2-58","name":"Đường Nguyễn An Ninh","zipCode":"717024"},{"count":"1-5, 2-14","name":"Đường Nguyễn An Ninh, Hẻm 22","zipCode":"717025"},{"count":"1-17, 2-10","name":"Đường Nguyễn An Ninh, Hẻm 24","zipCode":"717026"},{"count":"1-17, 2-8","name":"Đường Nguyễn An Ninh, Hẻm 48","zipCode":"717027"},{"count":"1-41, 2-48","name":"Đường Nguyễn Huy Lượng","zipCode":"717028"},{"count":"1-7, 2-14","name":"Đường Nguyễn Huy Lượng, Hẻm 14","zipCode":"717030"},{"count":"2-10","name":"Đường Nguyễn Huy Lượng, Hẻm 2","zipCode":"717029"},{"count":"1-37, 2-50","name":"Đường Nguyễn Huy Lượng, Hẻm 32","zipCode":"717031"},{"count":"1-17, 2-10","name":"Đường Nguyễn Huy Lượng, Hẻm 35","zipCode":"717032"},{"count":"1-7","name":"Đường Nguyễn Huy Lượng, Hẻm 45","zipCode":"717033"},{"count":"1-39","name":"Đường Nguyễn Thiện Thuật","zipCode":"717035"},{"count":"1-5, 2-12","name":"Đường Nguyễn Thiện Thuật, Hẻm 9","zipCode":"717036"},{"count":"2-94","name":"Đường Nơ Trang Long","zipCode":"717013"},{"count":"96-166","name":"Đường Nơ Trang Long","zipCode":"717048"},{"count":"1-23, 2-24","name":"Đường Nơ Trang Long, Hẻm 104","zipCode":"717049"},{"count":"2-22","name":"Đường Nơ Trang Long, Hẻm 110","zipCode":"717050"},{"count":"1-9, 2-20","name":"Đường Nơ Trang Long, Hẻm 124","zipCode":"717053"},{"count":"1-17, 2-26","name":"Đường Nơ Trang Long, Hẻm 2","zipCode":"717014"},{"count":"1-11, 2-22","name":"Đường Nơ Trang Long, Hẻm 38","zipCode":"717015"},{"count":"19-39","name":"Đường Phan Bội Châu","zipCode":"717041"},{"count":"1-33, 14-34","name":"Đường Phan Bội Châu, Hẻm 14","zipCode":"717042"},{"count":"2-42, 27-65","name":"Đường Phan Chu Trinh","zipCode":"717043"},{"count":"2-8","name":"Đường Phan Đăng Lưu","zipCode":"717012"},{"count":"2-20","name":"Đường Phan Văn Trị","zipCode":"717034"},{"count":"1-123, 2-136","name":"Đường Trần Văn Kỷ","zipCode":"717016"},{"count":"Khu cư xá Trần Văn Kỷ","name":"Đường Trần Văn Kỷ","zipCode":"717022"},{"count":"Khu cư xá Viễn Thông","name":"Đường Trần Văn Kỷ","zipCode":"717023"},{"count":"1-11, 2-12","name":"Đường Trần Văn Kỷ, Hẻm 1","zipCode":"717019"},{"count":"1-17, 2-18","name":"Đường Trần Văn Kỷ, Hẻm 136","zipCode":"717018"},{"count":"1-23, 2-24","name":"Đường Trần Văn Kỷ, Hẻm 31","zipCode":"717020"},{"count":"1-41, 2-48","name":"Đường Trần Văn Kỷ, Hẻm 66","zipCode":"717017"},{"count":"1-21, 2-30","name":"Đường Trần Văn Kỷ, Hẻm 67","zipCode":"717021"}]
+      },
+      {
+        "name": "Số 15",
+        "slug": "So_15_Binh_Thanh",
+        "totalPlace": "51",
+        "child": [{"count":"1-427","name":"Đường Bạch Đằng","zipCode":"718507"},{"count":"1-19, 2-18","name":"Đường Bạch Đằng, Hẻm 139","zipCode":"718508"},{"count":"1-15, 2-10","name":"Đường Bạch Đằng, Hẻm 169","zipCode":"718509"},{"count":"2-16","name":"Đường Bạch Đằng, Hẻm 169, Ngách 2","zipCode":"718510"},{"count":"1-5, 2-90","name":"Đường Bạch Đằng, Hẻm 179","zipCode":"718511"},{"count":"1-139, 2-48","name":"Đường Bạch Đằng, Hẻm 207","zipCode":"718512"},{"count":"1-9, 2-24","name":"Đường Bạch Đằng, Hẻm 235","zipCode":"718513"},{"count":"1-57, 2-58","name":"Đường Bạch Đằng, Hẻm 275","zipCode":"718514"},{"count":"1-77, 2-38","name":"Đường Bạch Đằng, Hẻm 293","zipCode":"718515"},{"count":"1-33","name":"Đường Bạch Đằng, Hẻm 293, Ngách 41","zipCode":"718516"},{"count":"1-171, 2-170","name":"Đường Bạch Đằng, Hẻm 325","zipCode":"718517"},{"count":"1-15, 2-","name":"Đường Bạch Đằng, Hẻm 325, Ngách 150","zipCode":"718518"},{"count":"1-7, 2-6","name":"Đường Bạch Đằng, Hẻm 325, Ngách 160","zipCode":"718519"},{"count":"1-127, 2-96","name":"Đường Bạch Đằng, Hẻm 377","zipCode":"718520"},{"count":"1-13, 2-72","name":"Đường Bạch Đằng, Hẻm 403","zipCode":"718521"},{"count":"1-15, 2-14","name":"Đường Bạch Đằng, Hẻm 427","zipCode":"718522"},{"count":"22-96","name":"Đường Điện Biên Phủ","zipCode":"718530"},{"count":"3-75","name":"Đường Điện Biên Phủ","zipCode":"718502"},{"count":"Khu dân cư Đại Đòan Kết Hẻm 241-242","name":"Đường Điện Biên Phủ","zipCode":"718540"},{"count":"Khu dân cư Hẻm 115","name":"Đường Điện Biên Phủ","zipCode":"718535"},{"count":"Khu dân cư Hẻm 153","name":"Đường Điện Biên Phủ","zipCode":"718536"},{"count":"Khu dân cư Hẻm 32","name":"Đường Điện Biên Phủ","zipCode":"718532"},{"count":"Khu dân cư Samco 3 Hẻm 8","name":"Đường Điện Biên Phủ","zipCode":"718541"},{"count":"Khu dân cư Thái Hòa - Hẻm 241-242","name":"Đường Điện Biên Phủ","zipCode":"718539"},{"count":"Hẻm 115","name":"Đường Điện Biên Phủ","zipCode":"718547"},{"count":"Hẻm 153","name":"Đường Điện Biên Phủ","zipCode":"718548"},{"count":"Hẻm 193","name":"Đường Điện Biên Phủ","zipCode":"718549"},{"count":"Hẻm 32","name":"Đường Điện Biên Phủ","zipCode":"718545"},{"count":"Hẻm 71","name":"Đường Điện Biên Phủ","zipCode":"718546"},{"count":"Hẻm 8","name":"Đường Điện Biên Phủ","zipCode":"718552"},{"count":"12-24","name":"Đường Điện Biên Phủ, Hẻm 206","zipCode":"718531"},{"count":"Đại Đoàn Kết","name":"Đường Điện Biên Phủ, Hẻm 241-242","zipCode":"718551"},{"count":"Thái Hoà","name":"Đường Điện Biên Phủ, Hẻm 241-242","zipCode":"718550"},{"count":"1-235, 2-48","name":"Đường Điện Biên Phủ, Hẻm 27","zipCode":"718503"},{"count":"1-13, 2-12","name":"Đường Điện Biên Phủ, Hẻm 3","zipCode":"718504"},{"count":"1-11, 2-12","name":"Đường Điện Biên Phủ, Hẻm 45","zipCode":"718505"},{"count":"12-14","name":"Đường Điện Biên Phủ, Hẻm 57","zipCode":"718506"},{"count":"Câu Lạc Bộ Lao Động","name":"Đường Điện Biên Phủ, Khu dân cư Hẻm 193","zipCode":"718538"},{"count":"Xây Dựng","name":"Đường Điện Biên Phủ, Khu dân cư Hẻm 193","zipCode":"718537"},{"count":"Nhà Thờ Chính Lộ","name":"Đường Điện Biên Phủ, Khu dân cư Hẻm 71","zipCode":"718533"},{"count":"103-129, 118-136","name":"Đường Đinh Bộ Lĩnh","zipCode":"718526"},{"count":"Hẻm 22","name":"Đường Đinh Bộ Lĩnh","zipCode":"718553"},{"count":"Khu dân cư Hẻm 22","name":"Đường Đinh Bộ Lĩnh Nối Dài","zipCode":"718542"},{"count":"Bờ Kè","name":"Đường Trường Sa","zipCode":"718544"},{"count":"Khu dân cư Bờ Kè","name":"Đường Trường Sa","zipCode":"718534"},{"count":"265-299","name":"Đường Xô Viết Nghệ Tỉnh","zipCode":"718523"},{"count":"1-33, 2-50","name":"Đường Xô Viết Nghệ Tỉnh, Hẻm 233","zipCode":"718525"},{"count":"2-12","name":"Đường Xô Viết Nghệ Tỉnh, Hẻm 283","zipCode":"718524"},{"count":"","name":"Khu chung cư Đing Bộ Lĩnh, Lô nhà A","zipCode":"718527"},{"count":"","name":"Khu chung cư Đinh Bộ Lĩnh, Lô nhà B","zipCode":"718528"}]
+      },
+      {
+        "name": "Số 17",
+        "slug": "So_17_Binh_Thanh",
+        "totalPlace": "31",
+        "child": []
+      },
+      {
+        "name": "Số 19",
+        "slug": "So_19_Binh_Thanh",
+        "totalPlace": "73",
+        "child": []
+      },
+      {
+        "name": "Số 2",
+        "slug": "So_2_Binh_Thanh",
+        "totalPlace": "39",
+        "child": []
+      },
+      {
+        "name": "Số 21",
+        "slug": "So_21_Binh_Thanh",
+        "totalPlace": "19",
+        "child": []
+      },
+      {
+        "name": "Số 22",
+        "slug": "So_22_Binh_Thanh",
+        "totalPlace": "19",
+        "child": []
+      },
+      {
+        "name": "Số 24",
+        "slug": "So_24_Binh_Thanh",
+        "totalPlace": "65",
+        "child": []
+      },
+      {
+        "name": "Số 25",
+        "slug": "So_25_Binh_Thanh",
+        "totalPlace": "29",
+        "child": []
+      },
+      {
+        "name": "Số 26",
+        "slug": "So_26_Binh_Thanh",
+        "totalPlace": "40",
+        "child": []
+      },
+      {
+        "name": "Số 27",
+        "slug": "So_27_Binh_Thanh",
+        "totalPlace": "50",
+        "child": []
+      },
+      {
+        "name": "Số 28",
+        "slug": "So_28_Binh_Thanh",
+        "totalPlace": "51",
+        "child": []
+      },
+      {
+        "name": "Số 3",
+        "slug": "So_3_Binh_Thanh",
+        "totalPlace": "57",
+        "child": []
+      },
+      {
+        "name": "Số 5",
+        "slug": "So_5_Binh_Thanh",
+        "totalPlace": "67",
+        "child": []
+      },
+      {
+        "name": "Số 6",
+        "slug": "So_6_Binh_Thanh",
+        "totalPlace": "26",
+        "child": []
+      },
+      {
+        "name": "Số 7",
+        "slug": "So_7_Binh_Thanh",
+        "totalPlace": "35",
+        "child": []
+      }
+    ]
+  },
+  {
+    "name": "Gò Vấp",
+    "slug": "Go_Vap",
+    "ign": "764",
+    "hasc": "VN.HC.GV",
+    "totalPlace": "291",
+    "child": []
+  },
+  {
+    "name": "Phú Nhuận",
+    "slug": "Phu_Nhuan",
+    "ign": "768",
+    "hasc": "VN.HC.PN",
+    "totalPlace": "523",
+    "child": []
+  },
+  {
+    "name": "Quận 1",
+    "slug": "Ho_Chi_Minh_Quan_1",
+    "ign": "760",
+    "hasc": "VN.HC.QA",
+    "totalPlace": "1 383",
+    "child": []
+  },
+  {
+    "name": "Quận 10",
+    "slug": "Ho_Chi_Minh_Quan_10",
+    "ign": "771",
+    "hasc": "VN.HC.QJ",
+    "totalPlace": "1 540",
+    "child": []
+  },
+  {
+    "name": "Quận 11",
+    "slug": "Ho_Chi_Minh_Quan_11",
+    "ign": "772",
+    "hasc": "VN.HC.QK",
+    "totalPlace": "1 412",
+    "child": []
+  },
+  {
+    "name": "Quận 12",
+    "slug": "Ho_Chi_Minh_Quan_12",
+    "ign": "761",
+    "hasc": "VN.HC.QL",
+    "totalPlace": "70",
+    "child": []
+  },
+  {
+    "name": "Quận 2",
+    "slug": "Ho_Chi_Minh_Quan_2",
+    "ign": "769",
+    "hasc": "VN.HC.QB",
+    "totalPlace": "361",
+    "child": []
+  },
+  {
+    "name": "Quận 3",
+    "slug": "Ho_Chi_Minh_Quan_3",
+    "ign": "770",
+    "hasc": "VN.HC.QC",
+    "totalPlace": "900",
+    "child": []
+  },
+  {
+    "name": "Quận 4",
+    "slug": "Ho_Chi_Minh_Quan_4",
+    "ign": "773",
+    "hasc": "VN.HC.QD",
+    "totalPlace": "634",
+    "child": []
+  },
+  {
+    "name": "Quận 5",
+    "slug": "Ho_Chi_Minh_Quan_5",
+    "ign": "774",
+    "hasc": "VN.HC.QE",
+    "totalPlace": "1 266",
+    "child": []
+  },
+  {
+    "name": "Quận 6",
+    "slug": "Ho_Chi_Minh_Quan_6",
+    "ign": "775",
+    "hasc": "VN.HC.QF",
+    "totalPlace": "683",
+    "child": []
+  },
+  {
+    "name": "Quận 7",
+    "slug": "Ho_Chi_Minh_Quan_7",
+    "ign": "778",
+    "hasc": "VN.HC.QG",
+    "totalPlace": "236",
+    "child": []
+  },
+  {
+    "name": "Quận 8",
+    "slug": "Ho_Chi_Minh_Quan_8",
+    "ign": "776",
+    "hasc": "VN.HC.QH",
+    "totalPlace": "971",
+    "child": []
+  },
+  {
+    "name": "Quận 9",
+    "slug": "Ho_Chi_Minh_Quan_9",
+    "ign": "763",
+    "hasc": "VN.HC.QI",
+    "totalPlace": "632",
+    "child": []
+  },
+  {
+    "name": "Tân Bình",
+    "slug": "Tan_Binh",
+    "ign": "766",
+    "hasc": "VN.HC.TB",
+    "totalPlace": "639",
+    "child": []
+  },
+  {
+    "name": "Tân Phú",
+    "slug": "Tan_Phu_Ho_Chi_Minh",
+    "ign": "767",
+    "hasc": "VN.HC.TP",
+    "totalPlace": "528",
+    "child": []
+  },
+  {
+    "name": "Thủ Đức",
+    "slug": "Thu_Duc",
+    "ign": "762",
+    "hasc": "VN.HC.TD",
+    "totalPlace": "554",
+    "child": []
+  },
+  {
+    "name": "Bình Chánh",
+    "slug": "Binh_Chanh",
+    "ign": "785",
+    "hasc": "VN.HC.BC",
+    "totalPlace": "144",
+    "child": []
+  },
+  {
+    "name": "Cần Giờ",
+    "slug": "Can_Gio",
+    "ign": "787",
+    "hasc": "VN.HC.CG",
+    "totalPlace": "33",
+    "child": []
+  },
+  {
+    "name": "Củ Chi",
+    "slug": "Cu_Chi",
+    "ign": "783",
+    "hasc": "VN.HC.CC",
+    "totalPlace": "177",
+    "child": []
+  },
+  {
+    "name": "Hóc Môn",
+    "slug": "Hoc_Mon",
+    "ign": "784",
+    "hasc": "VN.HC.HM",
+    "totalPlace": "79",
+    "child": []
+  },
+  {
+    "name": "Nhà Bè",
+    "slug": "Nha_Be",
+    "ign": "786",
+    "hasc": "VN.HC.NB",
+    "totalPlace": "46",
+    "child": []
+  }
+]

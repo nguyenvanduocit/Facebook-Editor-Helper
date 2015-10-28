@@ -4,13 +4,14 @@
         this.$module_editor = $('#module_editor');
         this.categoryNameMap = {
             "nhiếp ảnh":["Nhiếp ảnh gia", "chụp ảnh"],
-            "cà phê": ["Quán cà phê","Cửa hàng cà phê"],
-            "Trường học": ["Cao đẳng Đại học"]
+            "cà phê": ["Cà phê","Quán cà phê","Cửa hàng cà phê"],
+            "Trường học": ["Cao đẳng Đại học"],
+            "Học vấn":["Giáo dục","Trường học"],
+            "Dịch vụ sửa chữa":["Dịch vụ sửa chữa"],
+            "Nhà Hàng":["Tiệc nướng"]
 
         };
         this.detectedCategories = null;
-        var key =this.assimilationCateogryName("Nhiếp ảnh gia");
-        console.log(key);
     };
     Controler.prototype.getDetectedCategories = function(){
         "use strict";
@@ -28,6 +29,9 @@
         }
         return this.detectedCategories;
     };
+    Controler.prototype.autoCheckCity = function(){
+        var $cityContainer = this.$module_editor.find('._51mx');
+    };
     Controler.prototype.autoCheckCategories = function(){
         "use strict";
         var $cateogoriesContainer = this.$module_editor.find('._3jvu._4c10');
@@ -39,7 +43,7 @@
                 var $name = row.find('._6a');
                 var name = $name.text().trim();
 
-                if(self.mayMatch(name) >= 0){
+                if(self.mayCheck(name) >= 0){
                     var $button = row.find('button[value="agree"]');
                     $button.click();
                 }
@@ -60,17 +64,25 @@
             if(found != null){
                 return true;
             }
-            console.log(key);
         });
+        console.log(found);
         return found;
     };
-    Controler.prototype.mayMatch = function(name){
+    Controler.prototype.mayCheck = function(name){
         "use strict";
         var self = this;
         var definedCategories = this.getDetectedCategories();
         _.each(definedCategories, function(categoryName){
             return categoryName == self.assimilationCateogryName(name);
         });
+    };
+    Controler.prototype.fillCity = function(){
+      var $cityInput = this.$module_editor.find('input[name="place_city_id"]');
+        $cityInput.val("108458769184495");
+    };
+    Controler.prototype.submit = function(){
+        var $places_editor_save = this.$module_editor.find('#place_editor_next_area #places_editor_save');
+        $places_editor_save.click();
     };
     /**
      *
@@ -82,13 +94,16 @@
             //console.log(sender.tab ? "from a content script:" + sender.tab.url : "from the extension");
             if (request.event == "fetch_more_success")
             {
-                //var $places_editor_save = $module_editor.find('#place_editor_next_area #places_editor_save');
-                //$places_editor_save.text('hihi');
-                //controller.autoCheckCategories();
+                controller.autoCheckCategories();
+                controller.fillCity();
+                //controller.submit();
                 sendResponse({success: true});
             }
             else{
                 sendResponse({success: false, request:request});
             }
         });
+    $(document).bind('keydown', 'shift+z', function(){
+        controller.submit();
+    });
 })(jQuery);
