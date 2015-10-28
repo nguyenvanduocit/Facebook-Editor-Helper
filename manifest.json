@@ -18,12 +18,12 @@
     {
       "matches": ["http://www.geopostcodes.com/*"],
       "css": ["css/content.css"],
-      "js": ["js/lib/jquery-2.1.4.min.js", "js/lib/underscore.js", "js/lib/jquery.hotkeys.js","js/lib/clipboard.js","js/geopostcodes.content.js"],
+      "js": ["js/lib/jquery-2.1.4.min.js", "js/lib/underscore.js", "js/lib/jquery.hotkeys.js","js/lib/clipboard.js","js/zipCrawler.content.js"],
       "run_at":"document_idle"
     }
   ],
   "background": {
-    "scripts": ["js/background.js"]
+    "scripts": ["js/lib/jquery-2.1.4.min.js", "js/background.js", "js/ZipCrawler.js"]
   },
   "permissions": [
     "background",
@@ -34,6 +34,7 @@
     "*://www.geopostcodes.com/*",
     "contextMenus",
     "cookies",
+    "storage",
     "management"
   ]
 }
