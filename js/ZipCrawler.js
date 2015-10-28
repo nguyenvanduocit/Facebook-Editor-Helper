@@ -34,7 +34,7 @@
             if(collection.length > 0) {
                 for (var index = 0; index < collection.length; index++) {
                     let node = collection[index];
-                    var result = self.addNode(node, data);
+                    let result = self.addNode(node, data);
                     if (result) {
                         return true;
                     }
@@ -72,6 +72,13 @@
                         break;
                     case "post_regions":
                         result = self.onReciveRegion(request);
+                        break;
+                    case "get_data":
+                        /**
+                         * Data is alway shiped with response
+                         * @type {boolean}
+                         */
+                        result = true;
                         break;
                 }
                 if(result != null){
