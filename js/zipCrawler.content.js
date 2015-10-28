@@ -68,4 +68,7 @@
             $('#browse').append(grabButton);
         }
     }
+    function updateCoordinates(){
+
+    }
 })(jQuery);
