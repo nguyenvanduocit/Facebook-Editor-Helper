@@ -30,7 +30,7 @@
     "activeTab",
     "webRequest",
     "webRequestBlocking",
-    "*://*.facebook.com/",
+    "*://*.facebook.com/*",
     "*://www.geopostcodes.com/*",
     "contextMenus",
     "cookies",

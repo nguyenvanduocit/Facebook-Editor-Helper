@@ -3,7 +3,7 @@
     var Application = function(){
         "use strict";
         this.filter = {
-            urls: ["https://www.facebook.com/editor/render*"]
+            urls: ["https://www.facebook.com/editor/fetch_more*"]
         };
         this.opt_extraInfoSpec = ["responseHeaders"];
     };
@@ -11,10 +11,8 @@
         "use strict";
         console.log(details);
         if(details.statusCode == 200) {
-            chrome.tabs.query({active: true, currentWindow: true}, function (tabs) {
-                chrome.tabs.sendMessage(tabs[0].id, {event: "fetch_more_success"}, function (response) {
-                    console.log(response);
-                });
+            chrome.tabs.sendMessage(details.tabId, {event: "fetch_more_success"}, function (response) {
+                console.log(response);
             });
         }
         else{
