@@ -3,7 +3,7 @@
     var Application = function(){
         "use strict";
         this.filter = {
-            urls: ["https://www.facebook.com/editor/fetch_more*"]
+            urls: ["https://www.facebook.com/editor/render*"]
         };
         this.opt_extraInfoSpec = ["responseHeaders"];
     };

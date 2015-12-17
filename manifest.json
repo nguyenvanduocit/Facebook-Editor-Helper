@@ -10,7 +10,7 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://www.facebook.com/editor/"],
+      "matches": ["https://www.facebook.com/editor/*"],
       "css": ["css/content.css"],
       "js": ["js/lib/jquery-2.1.4.min.js", "js/lib/underscore.js", "js/lib/jquery.hotkeys.js","js/content.js"],
       "run_at":"document_idle"
