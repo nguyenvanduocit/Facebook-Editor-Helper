@@ -1,20 +1,21 @@
 (function ($) {
 
-    jQuery.expr[':'].regex = function(elem, index, match) {
+    jQuery.expr[':'].regex = function (elem, index, match) {
         var matchParams = match[3].split(','),
             validLabels = /^(data|css):/,
             attr = {
                 method: matchParams[0].match(validLabels) ?
                     matchParams[0].split(':')[0] : 'attr',
-                property: matchParams.shift().replace(validLabels,'')
+                property: matchParams.shift().replace(validLabels, '')
             },
             regexFlags = 'ig',
-            regex = new RegExp(matchParams.join('').replace(/^s+|s+$/g,''), regexFlags);
+            regex = new RegExp(matchParams.join('').replace(/^s+|s+$/g, ''), regexFlags);
         return regex.test(jQuery(elem)[attr.method](attr.property));
     };
 
     var Controler = function (options) {
         "use strict";
+        var self = this;
         this.$module_editor = $('#module_editor');
         this.categoryNameMap = {
             "nhiếp ảnh": ["Nhiếp ảnh gia", "chụp ảnh"],
@@ -26,7 +27,18 @@
 
         };
         this.detectedCategories = null;
-        this.isBusy = false;
+        this.waitTime = Date.now();
+        this.delayTime = 10000;
+        this.isWaitToSubmit = false;
+        setInterval(function () {
+                self.updateTimer();
+            }, 1000
+        );
+    };
+    Controler.prototype.updateTimer = function(){
+        if(this.isWaitToSubmit) {
+            this.$module_editor.find('button[name="submit_form"]').text("Next in " + ((this.delayTime/1000-1)-Math.floor((Date.now() - this.waitTime) / 1000)) + "s");
+        }
     };
     Controler.prototype.getDetectedCategories = function () {
         "use strict";
@@ -112,24 +124,25 @@
     var controller = new Controler();
     chrome.runtime.onMessage.addListener(
         function (request, sender, sendResponse) {
-            if(!controller.isBusy){
+            if (!controller.isWaitToSubmit) {
                 //console.log(sender.tab ? "from a content script:" + sender.tab.url : "from the extension");
                 if (request.event == "fetch_more_success") {
-                    controller.isBusy = true;
+                    controller.isWaitToSubmit = true;
+                    controller.waitTime = Date.now();
                     setTimeout(function(){
                         //controller.autoCheckCategories();
                         controller.fillCity();
                         controller.vote();
                         controller.submit();
-                        controller.isBusy = false;
-                    }, 7000);
-                    sendResponse({success: true});
+                        controller.isWaitToSubmit = false;
+                        sendResponse({success: true});
+                    }, controller.delayTime);
                 }
                 else {
                     sendResponse({success: false, request: request});
                 }
-            }else{
-                sendResponse({success: false, request: request, reason:'busy'});
+            } else {
+                sendResponse({success: false, request: request, reason: 'busy'});
             }
         });
     $(document).bind('keydown', 'shift+z', function () {
