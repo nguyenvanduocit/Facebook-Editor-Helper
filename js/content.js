@@ -28,7 +28,7 @@
         };
         this.detectedCategories = null;
         this.waitTime = Date.now();
-        this.delayTime = 20000;
+        this.delayTime = 15000;
         this.isWaitToSubmit = false;
         setInterval(function () {
                 self.updateTimer();
