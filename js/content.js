@@ -28,16 +28,16 @@
         };
         this.detectedCategories = null;
         this.waitTime = Date.now();
-        this.delayTime = 15000;
+        this.delayTime = 8000;
         this.isWaitToSubmit = false;
         setInterval(function () {
                 self.updateTimer();
             }, 1000
         );
     };
-    Controler.prototype.updateTimer = function(){
-        if(this.isWaitToSubmit) {
-            this.$module_editor.find('button[name="submit_form"]').text("Next in " + ((this.delayTime/1000-1)-Math.floor((Date.now() - this.waitTime) / 1000)) + "s");
+    Controler.prototype.updateTimer = function () {
+        if (this.isWaitToSubmit) {
+            this.$module_editor.find('button[name="submit_form"]').text("Next in " + (((this.delayTime+5000) / 1000 - 1) - Math.floor((Date.now() - this.waitTime) / 1000)) + "s");
         }
     };
     Controler.prototype.getDetectedCategories = function () {
@@ -81,7 +81,7 @@
         "use strict";
         var found = null;
         _.each(this.categoryNameMap, function (names, key) {
-            console.log(names, key);
+            //console.log(names, key);
             _.each(names, function (longName) {
                 if (longName == name) {
                     found = key;
@@ -92,7 +92,7 @@
                 return true;
             }
         });
-        console.log(found);
+        //console.log(found);
         return found;
     };
     Controler.prototype.mayCheck = function (name) {
@@ -108,10 +108,32 @@
         $cityInput.val("108458769184495");
     };
     Controler.prototype.vote = function () {
+        //Vote city
         var $cityVote = this.$module_editor.find("input:regex(name,place_address_vote\\[.*\"city_id\":108458769184495.*)");
         if ($cityVote.length > 0) {
             $cityVote.siblings().find('button[value="agree"]').click();
         }
+        //Vote website
+        var $currentWebsite = this.$module_editor.find('.pageSuggestTitle .fsm.fwn.fcw a');
+        if ($currentWebsite.length > 0) {
+            var href = $currentWebsite.text();
+            var domain = this.getDomainFromURL(href);
+            var $suggestWebsite = this.$module_editor.find("input:regex(name,page_website_vote\\[.*\"website\":.*"+domain+".*)");
+            if($suggestWebsite.length>0){
+                if(domain.indexOf("clj.vn") >= 0 || domain.indexOf("facebook.com") >= 0 || domain.indexOf("5giay.vn") >= 0 || domain.indexOf("webmienphi.in") >= 0){
+                    $suggestWebsite.siblings().find('button[value="disagree"]').click();
+                }else{
+                    $suggestWebsite.siblings().find('button[value="agree"]').click();
+                }
+            }
+
+        }
+
+    };
+    Controler.prototype.getDomainFromURL = function (url) {
+        var a = document.createElement('a');
+        a.href = url;
+        return a.hostname;
     };
     Controler.prototype.submit = function () {
         var $places_editor_save = this.$module_editor.find('#place_editor_next_area #places_editor_save');
@@ -129,13 +151,15 @@
                 if (request.event == "fetch_more_success") {
                     controller.isWaitToSubmit = true;
                     controller.waitTime = Date.now();
-                    setTimeout(function(){
-                        //controller.autoCheckCategories();
+                    setTimeout(function () {
+                        controller.autoCheckCategories();
                         controller.fillCity();
                         controller.vote();
-                        controller.submit();
-                        controller.isWaitToSubmit = false;
-                        sendResponse({success: true});
+                        setTimeout(function(){
+                            controller.isWaitToSubmit = false;
+                            controller.submit();
+                            sendResponse({success: true});
+                        },5000);
                     }, controller.delayTime);
                 }
                 else {
