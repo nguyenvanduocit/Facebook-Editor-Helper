@@ -27,6 +27,5 @@
     /**
      * https://developer.chrome.com/extensions/webRequest#event-onBeforeRequest
      */
-    chrome.webRequest.onCompleted.addListener(
-        app.onCompleted, app.filter, app.opt_extraInfoSpec);
+    chrome.webRequest.onCompleted.addListener(app.onCompleted, app.filter, app.opt_extraInfoSpec);
 })();

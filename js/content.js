@@ -37,7 +37,7 @@
     };
     Controler.prototype.updateTimer = function () {
         if (this.isWaitToSubmit) {
-            this.$module_editor.find('button[name="submit_form"]').text("Next in " + (((this.delayTime+5000) / 1000 - 1) - Math.floor((Date.now() - this.waitTime) / 1000)) + "s");
+            this.$module_editor.find('button[name="submit_form"]').text("Next in " + (((this.delayTime + 5000) / 1000 - 1) - Math.floor((Date.now() - this.waitTime) / 1000)) + "s");
         }
     };
     Controler.prototype.getDetectedCategories = function () {
@@ -118,11 +118,11 @@
         if ($currentWebsite.length > 0) {
             var href = $currentWebsite.text();
             var domain = this.getDomainFromURL(href);
-            var $suggestWebsite = this.$module_editor.find("input:regex(name,page_website_vote\\[.*\"website\":.*"+domain+".*)");
-            if($suggestWebsite.length>0){
-                if(domain.indexOf("clj.vn") >= 0 || domain.indexOf("facebook.com") >= 0 || domain.indexOf("5giay.vn") >= 0 || domain.indexOf("webmienphi.in") >= 0){
+            var $suggestWebsite = this.$module_editor.find("input:regex(name,page_website_vote\\[.*\"website\":.*" + domain + ".*)");
+            if ($suggestWebsite.length > 0) {
+                if (domain.indexOf("clj.vn") >= 0 || domain.indexOf("facebook.com") >= 0 || domain.indexOf("5giay.vn") >= 0 || domain.indexOf("webmienphi.in") >= 0) {
                     $suggestWebsite.siblings().find('button[value="disagree"]').click();
-                }else{
+                } else {
                     $suggestWebsite.siblings().find('button[value="agree"]').click();
                 }
             }
@@ -155,11 +155,11 @@
                         controller.autoCheckCategories();
                         controller.fillCity();
                         controller.vote();
-                        setTimeout(function(){
+                        setTimeout(function () {
                             controller.isWaitToSubmit = false;
                             controller.submit();
                             sendResponse({success: true});
-                        },5000);
+                        }, 5000);
                     }, controller.delayTime);
                 }
                 else {
@@ -168,8 +168,6 @@
             } else {
                 sendResponse({success: false, request: request, reason: 'busy'});
             }
-        });
-    $(document).bind('keydown', 'shift+z', function () {
-        controller.submit();
-    });
+        }
+    );
 })(jQuery);

@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "Facebook Editor Helper",
-  "description": "Life saver for Facebook editors",
+  "name": "Facebook Place Editor Bot",
+  "description": "Just for T-Shirt",
   "version": "1.0",
   "options_ui": {
     "page": "options.html",
